@@ -2,11 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Alexander Maximilian Stridde
     - name: Languages
-      value: English, German
+      value: English (fluent), German (native), Italian (basic)
 
 - title: Education
   type: time_table

@@ -27,6 +27,7 @@ latest_posts:
 
 # Personal:
 
+My full name is Alexander Maximilian Stridde. You can just call me Max though.
 My interests are:
 
 - sports
@@ -37,9 +38,12 @@ My interests are:
 
 # Academia:
 
-I study Mathematics at the [University Bonn](https://www.uni-bonn.de). 
+I study Mathematics at the [University Bonn](https://www.uni-bonn.de).
+As a second subject I am starting with economics in Fall 2025.
 
-## This webpage is
+#### This webpage is
 
 Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+---
