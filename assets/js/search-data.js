@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "This is a part of my cv. Also have a look at linkedin.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -36,13 +36,6 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
               },
             },{id: "dropdown-news",
               title: "news",
@@ -60,6 +53,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/first-post/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
+        
+          title: "a post with plotly.js",
+        
+        description: "this is what included plotly.js code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/plotly/";
+          
+        },
+      },{id: "post-a-post-with-image-galleries",
+        
+          title: "a post with image galleries",
+        
+        description: "this is what included image galleries could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/photo-gallery/";
           
         },
       },{id: "books-the-godfather",
