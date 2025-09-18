@@ -5,7 +5,6 @@ permalink: /datenschutz/
 nav: false
 ---
 
-
 # Datenschutz­erklärung
 
 ## 1\. Datenschutz auf einen Blick
