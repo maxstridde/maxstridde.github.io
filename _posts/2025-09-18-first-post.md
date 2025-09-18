@@ -6,6 +6,7 @@ description: this is just a short introduction
 tags: personal
 categories: blogging
 thumbnail: assets/img/profile_picture_max_stridde.jpg
+featured: true
 ---
 
 # hello world!
