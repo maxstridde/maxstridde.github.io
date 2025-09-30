@@ -13,7 +13,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   <a href="/impressum/">Impressum</a> · 
   <a href="/datenschutz/">Datenschutz</a>
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: academic-website, portfolio-website, max-stridde, blog # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 𝛑 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
