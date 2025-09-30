@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
+gem 'nokogiri', '>= 1.18.9'  # <- Hier die Sicherheitswarnung beheben
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
