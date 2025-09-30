@@ -42,7 +42,7 @@ jobs:
   link-checker:
     runs-on: ubuntu-latest
     # only run on the main repo
-    if: github.repository == 'maxstridde.github.io'
+    if: github.repository == 'maxstridde/maxstridde.github.io'
     steps:
       - uses: actions/checkout@v4
 
