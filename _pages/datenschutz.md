@@ -71,11 +71,11 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Ko
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Alexander Maximilian Stridde 
-Straße, Nr. 
+Alexander Maximilian Stridde
+Straße, Nr.
 53111 Bonn
 
-Telefon: \[Telefonnummer der verantwortlichen Stelle\] 
+Telefon: \[Telefonnummer der verantwortlichen Stelle\]
 E-Mail: maxstridde@uni-bonn.de
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail- Adressen o. Ä.) entscheidet.
