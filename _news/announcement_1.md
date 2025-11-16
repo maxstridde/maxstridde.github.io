@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Im starting a new journey. Im starting this webpage.
+I am starting a new journey. I am starting this webpage.
