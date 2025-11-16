@@ -12,7 +12,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   This is my webpage for all things from and about me. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   <a href="/impressum/">Impressum</a> · 
-  <a href="/datenschutz/">Datenschutz</a>
+  <a href="/datenschutz/">Datenschutz</a> · 
+  <a href="/cookies/">🍪 cookies-free</a>
 keywords: academic-website, portfolio-website, max-stridde, blog # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 𝛑 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
