@@ -6,6 +6,7 @@ nav: false
 ---
 
 # Kein Cookie Banner und keine lästigen Cookies
+
 Auf meiner Website kommen nur Cookies zum Einsatz, die technisch notwendig sind, also solche, damit alles reibungslos funktioniert.  
 Wir nutzen keine Tracking-, Analyse- oder Werbe-Cookies und brauchen daher auch kein lästiges Cookie-Banner.
 
