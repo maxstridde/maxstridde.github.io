@@ -25,23 +25,22 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-# Personal:
+# Persönlich:
 
-My full name is Alexander Maximilian Stridde. You can just call me Max though.
-My interests are:
+Mein ganzer Name ist Alexander Maximilian Stridde. Du kannst mich einfach Max nennen.
+Ich interessiere mich für:
 
-- sports
-- music
-- science
-- cooking and baking
-- media
+- Sport
+- Musik
+- Wissenschaft
+- Kochen und Backen
+- Text und Bild
 
-# Academia:
+# Akademisches:
 
-I study Mathematics at the [University Bonn](https://www.uni-bonn.de).
-As a second subject I am starting with economics in fall 2025.
+Ich studiere Mathematik an der [Universität Bonn](https://www.uni-bonn.de). Im Sommersemester 2026 verbringe ich ein halbes Jahr mit Erasmus in Mailand, Italien.
 
-## This webpage is
+## Dieser Blog ist
 
 Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
