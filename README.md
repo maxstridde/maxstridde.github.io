@@ -1,6 +1,6 @@
-# al-folio Blog
+# Blog
 
-This is a blog by Max Stridde.
+This is a blog by Max Stridde, based on al-folio.
 
 ## License
 
