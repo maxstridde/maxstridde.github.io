@@ -47,4 +47,5 @@ Eine Formel welche die wichtigen mathematischen Konstanten $e, \pi, i, 0$ und $1
 Dieser Blog dient nicht nur meiner Beschäftigung mit DNS-Einträgen, Versionsverwaltung mit GitHub und der DSGVO. Vorrangig möchte ich meine **Informationspflicht** gegenüber Verwandtschaft und Freunden erfüllen. In diesem Selbstexperiment eines Blogs möchte ich über meine Erfahrungen in Mailand berichten. Freut euch über Anekdoten, Bilder und vielleicht das eine oder andere italienische Rezept für mehr Lebensfreude im Alltag.
 
 Viel Spaß beim Stöbern und Lesen,
+
 Max
