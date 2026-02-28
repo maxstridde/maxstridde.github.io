@@ -45,7 +45,7 @@ Vertretungsberechtigte Personen: Alexander Maximilian Stridde
 E-Mail-Adresse: [maxstridde@posteo.de](mailto:maxstridde@posteo.de)
 Telefon: 01579-2341672 (Die Telefonnummer wird von Dein Impressum betrieben.)
 
-Impressum: maxstridde.de/impressum
+Impressum: [maxstridde.de/impressum](maxstridde.de/impressum)
 
 ## Übersicht der Verarbeitungen
 

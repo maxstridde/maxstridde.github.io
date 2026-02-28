@@ -1,11 +1,11 @@
 ---
 layout: page
-title: submenus
+title: Weiteres
 nav: true
 nav_order: 2
 dropdown: true
 children:
-  - title: bookshelf
+  - title: Bücher
     permalink: /books/
   - title: divider
   - title: CV

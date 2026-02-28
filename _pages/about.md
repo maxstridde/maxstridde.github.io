@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Student. Mathmatician. Teamplayer.
+subtitle: Mathematiker. Sportler. Teamplayer.
 
 profile:
   align: right
@@ -27,22 +27,20 @@ latest_posts:
 
 # Persönlich:
 
-Mein ganzer Name ist Alexander Maximilian Stridde. Du kannst mich einfach Max nennen.
-Ich interessiere mich für:
+Mein ganzer Name ist Alexander Maximilian Stridde. Du kannst mich einfach Max nennen. Ich interessiere mich für:
 
 - Sport
 - Musik
 - Wissenschaft
 - Kochen und Backen
-- Text und Bild
+- Texte, Bilder und Videos
 
 # Akademisches:
 
-Ich studiere Mathematik an der [Universität Bonn](https://www.uni-bonn.de). Im Sommersemester 2026 verbringe ich ein halbes Jahr mit Erasmus in Mailand, Italien.
+Ich studiere Mathematik an der [Universität Bonn](https://www.uni-bonn.de). Im Sommersemester 2026 verbringe ich ein halbes Jahr mit Erasmus an der [Università degli Studi di Milano](https://www.unimi.it/en) in Mailand, Italien.
 
-## Dieser Blog ist
+# Dieser Blog
 
-Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+Läuft über <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> mit dem <a href="https://github.com/alshedivat/al-folio">al-folio</a> Theme. Gehosted auf<a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 ---

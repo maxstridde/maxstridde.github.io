@@ -6,6 +6,6 @@ nav: false
 collection: books
 ---
 
-> Books are magic.
+> Bücher sind ein Tor zur Welt. ~ Dr. Roland Bernecker, Generalsekretär der Deutschen UNESCO-Kommission
 
 ## Bücher die ich gelesen habe
