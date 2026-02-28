@@ -9,7 +9,7 @@ isbn: 9780571368709 # use ISBN to fetch cover (if no `olid` is provided, dashes 
 categories: classics historical-fiction novella
 tags: top-100
 started: 2025-06-01
-finished: 2025-06-15
+finished: 2025-06-14
 released: 2021
 stars: 5
 status: Finished

@@ -7,16 +7,16 @@ first_name: Max
 middle_name: ""
 last_name: Stridde
 contact_note: >
-  You can best reach me on campus.
+  Sprich mich einfach auf dem Campus an oder schreib mir eine Mail.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  This is my webpage for all things from and about me. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Hier findest du alles, was ich der Welt mitteilen möchte.
 footer_text: >
   <a href="/impressum/">Impressum</a> · 
   <a href="/datenschutz/">Datenschutz</a> · 
   <a href="/cookies/">🍪 cookies-free</a>
-keywords: academic-website, portfolio-website, max-stridde, blog # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 𝛑 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+keywords: max-stridde, blog, mathematik, italien, mailand, milano, bonn, fotos, academic-website, portfolio-website  # add your own keywords or leave empty
+lang: de # the language of your site (for example: en, fr, cn, ru, etc.)
+icon: 🇮🇹 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://maxstridde.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -32,7 +32,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Max Stridde # blog_name will be displayed in your blog page
-blog_description: Everything from and about me.
+blog_description: Hier findest du alles, was ich der Welt mitteilen möchte.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -249,8 +249,8 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["personal", "academia", "images", "math", "travel"] # these tags will be displayed on the front page of your blog
-display_categories: ["blogging", "reviews"] # these categories will be displayed on the front page of your blog
+display_tags: ["italien", "mathe"] # these tags will be displayed on the front page of your blog
+display_categories: ["blogging"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
