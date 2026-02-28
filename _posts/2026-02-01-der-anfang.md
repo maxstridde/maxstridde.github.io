@@ -15,7 +15,7 @@ latest_posts:
 
 # hello world!
 
-``` c++
+```c++
 #include <iostream>
 
 int main(){
