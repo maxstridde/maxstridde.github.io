@@ -9,7 +9,7 @@ profile:
   image: profile_picture_max_stridde.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Bonn, Germany</p>
+    <p>Bonn, Deutschland</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -37,10 +37,10 @@ Mein ganzer Name ist Alexander Maximilian Stridde. Du kannst mich einfach Max ne
 
 # Akademisches:
 
-Ich studiere Mathematik an der [Universität Bonn](https://www.uni-bonn.de). Im Sommersemester 2026 verbringe ich ein halbes Jahr mit Erasmus an der [Università degli Studi di Milano](https://www.unimi.it/en) in Mailand, Italien.
+Ich studiere Mathematik an der [Universität Bonn](https://www.uni-bonn.de). Im Sommersemester 2026 verbringe ich ein halbes Jahr mit Erasmus an der [Università degli Studi di Milano](https://www.unimi.it/en) in Italien.
 
 # Dieser Blog
 
-Läuft über <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> mit dem <a href="https://github.com/alshedivat/al-folio">al-folio</a> Theme. Gehosted auf<a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+Läuft über <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> mit dem <a href="https://github.com/alshedivat/al-folio">al-folio</a> Theme. Gehosted auf <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 ---

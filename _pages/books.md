@@ -6,6 +6,7 @@ nav: false
 collection: books
 ---
 
-> Bücher sind ein Tor zur Welt. ~ Dr. Roland Bernecker, Generalsekretär der Deutschen UNESCO-Kommission
+> Bücher sind ein Tor zur Welt.
+> ~ Dr. Roland Bernecker, Generalsekretär der Deutschen UNESCO-Kommission
 
-## Bücher die ich gelesen habe
+## Bücher die ich gelesen habe:
