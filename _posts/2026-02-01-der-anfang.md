@@ -5,7 +5,7 @@ date: 2026-02-01 12:00:00
 description: Warum ein Blog? Gute Frage!
 tags: mathe
 categories: blogging
-thumbnail: assets/img/profile_picture_max_stridde.jpg
+thumbnail: assets/img/hello-world-unsplash.jpg
 featured: true
 latest_posts:
   enabled: true
