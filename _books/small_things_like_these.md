@@ -8,6 +8,7 @@ olid: OL36285622M # use Open Library ID to fetch cover (if no `cover` is provide
 isbn: 9780571368709 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: classics historical-fiction novella
 tags: top-100
+date: 2025-06-01 # So that the correct archive is created
 started: 2025-06-01
 finished: 2025-06-14
 released: 2021
