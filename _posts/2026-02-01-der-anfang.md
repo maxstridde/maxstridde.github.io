@@ -44,7 +44,7 @@ Eine Formel welche die wichtigen mathematischen Konstanten $e, \pi, i, 0$ und $1
 
 # Warum?
 
-Dieser Blog dient nicht nur meiner Beschäftigung mit DNS-Einträgen, Versionsverwaltung mit GitHub und der DSGVO. Vorrangig möchte ich meine *\`Informationspflicht\`* gegenüber Verwandtschaft und Freunden erfüllen. Mit diesem Selbstexperiment in Form eines Blogs möchte ich über meine Erfahrungen in Mailand berichten. Freu dich über Anekdoten, Bilder und vielleicht das eine oder andere italienische Rezept für mehr Lebensfreude im Alltag.
+Dieser Blog dient nicht nur meiner Beschäftigung mit DNS-Einträgen, Versionsverwaltung mit GitHub und der DSGVO. Vorrangig möchte ich meine _\`Informationspflicht\`_ gegenüber Verwandtschaft und Freunden erfüllen. Mit diesem Selbstexperiment in Form eines Blogs möchte ich über meine Erfahrungen in Mailand berichten. Freu dich über Anekdoten, Bilder und vielleicht das eine oder andere italienische Rezept für mehr Lebensfreude im Alltag.
 
 Viel Spaß beim Stöbern und Lesen,
 
