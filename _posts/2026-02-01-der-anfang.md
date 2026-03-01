@@ -3,7 +3,7 @@ layout: post
 title: Der Anfang
 date: 2026-02-01 12:00:00
 description: Warum ein Blog? Gute Frage!
-tags: mathe
+tags: mathe, italien
 categories: blogging
 thumbnail: assets/img/hello-world-unsplash.jpg
 featured: true
@@ -19,7 +19,7 @@ latest_posts:
 #include <iostream>
 
 int main(){
-    std::cout << "Ciao!";
+    std::cout << "Ciao, mondo!";
     return 0;
 }
 ```
@@ -44,7 +44,7 @@ Eine Formel welche die wichtigen mathematischen Konstanten $e, \pi, i, 0$ und $1
 
 # Warum?
 
-Dieser Blog dient nicht nur meiner Beschäftigung mit DNS-Einträgen, Versionsverwaltung mit GitHub und der DSGVO. Vorrangig möchte ich meine **Informationspflicht** gegenüber Verwandtschaft und Freunden erfüllen. In diesem Selbstexperiment eines Blogs möchte ich über meine Erfahrungen in Mailand berichten. Freut euch über Anekdoten, Bilder und vielleicht das eine oder andere italienische Rezept für mehr Lebensfreude im Alltag.
+Dieser Blog dient nicht nur meiner Beschäftigung mit DNS-Einträgen, Versionsverwaltung mit GitHub und der DSGVO. Vorrangig möchte ich meine *\`Informationspflicht\`* gegenüber Verwandtschaft und Freunden erfüllen. Mit diesem Selbstexperiment in Form eines Blogs möchte ich über meine Erfahrungen in Mailand berichten. Freu dich über Anekdoten, Bilder und vielleicht das eine oder andere italienische Rezept für mehr Lebensfreude im Alltag.
 
 Viel Spaß beim Stöbern und Lesen,
 
