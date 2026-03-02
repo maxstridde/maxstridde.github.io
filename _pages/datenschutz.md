@@ -107,7 +107,7 @@ Diese zweifache Absicherung gewährleistet einen umfassenden Schutz Ihrer Daten:
 
 Bei den einzelnen Diensteanbietern informieren wir Sie darüber, ob sie nach dem DPF zertifiziert sind und ob Standardvertragsklauseln vorliegen. Weitere Informationen zum DPF und eine Liste der zertifizierten Unternehmen finden Sie auf der Website des US-Handelsministeriums unter [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/) (in englischer Sprache).
 
-Für Datenübermittlungen in andere Drittländer gelten entsprechende Sicherheitsmaßnahmen, insbesondere Standardvertragsklauseln, ausdrückliche Einwilligungen oder gesetzlich erforderliche Übermittlungen. Informationen zu Drittlandtransfers und geltenden Angemessenheitsbeschlüssen können Sie dem Informationsangebot der EU-Kommission entnehmen: [https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection_en?prefLang=de.](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection_en?prefLang=de)
+Für Datenübermittlungen in andere Drittländer gelten entsprechende Sicherheitsmaßnahmen, insbesondere Standardvertragsklauseln, ausdrückliche Einwilligungen oder gesetzlich erforderliche Übermittlungen. Informationen zu Drittlandtransfers und geltenden Angemessenheitsbeschlüssen können Sie dem Informationsangebot der EU-Kommission entnehmen: https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection_en?prefLang=de
 
 ## Allgemeine Informationen zur Datenspeicherung und Löschung
 
