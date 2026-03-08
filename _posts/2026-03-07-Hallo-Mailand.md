@@ -28,8 +28,8 @@ Interessanter als meine Bahnfahrt sind meine letzen Tage in Bonn. Nachdem ich Do
 Mit freiem Kopf und neuer Energie machte ich mich daran, all jene aufgestauten ToDos abzuarbeiten, die ich auf "nach der Klausurphase" datiert hatte. Unterdessen traf ich mich mit einigen Freunden und sagte:
 
 > arrivederci - auf Wiedersehen
-> 
->  /ariveˈdɛrt͜ʃi/
+>
+> /ariveˈdɛrt͜ʃi/
 
 Obwohl mein Zimmer meist aufgeräumt ist, hat das Wegräumen meiner Sachen erstaunlich lange gedauert. Neben einer mit Papiermüll prall gefüllten Ikeatasche, die lediglich aus meinen handschriftlichen Notizen und Vorlesungsmitschriften von 3 Semestern bestand, entsorgte ich auch etwaige Ausgaben "Die Zeit", die ich an 5 verschiedenen Orten abgelegt habe. Mein Gedanke, man kann immer mal Zeitungspapier gebrauchen, zum Beispiel um nasse Schuhe zu trocknen oder Geschenke einzupacken, war 5 mal richtig. Richtig unter der Annahme, dass ich bis dato noch keine Zeitung aufbewahrt hatte. (An meine WG: Auf dem 2,30m Küchenschrank, direkt neben dem Kühlschrank, könnt ihr eine Zeitung finden, wenn ihr mal eine benötigt :)
 
@@ -67,9 +67,9 @@ Ich, der Mathestudent aus Bonn, der nur das Geräusch von Kreide auf Tafeln gew�
 
 > Zu Hause ist dort, wo das WLAN sich von selbst verbindet.
 
-Dank [Eduroam](https://eduroam.org/), einem Dienst der von der weltweiten Forschungs- und Universitätsgemeinschaft getragen wird, erhalte ich durch meine Bonner Zugangsdaten vollautomatisch Zugriff aufs Internet in über hundert Ländern, sofern ich in Gebäuden einer Uni bin. Somit bin ich in der Mensa und in jedem Hörsaal in Italien und an vielen anderen Orten der Welt ganz einfach angebunden. Das dies so reibungslos funktioniert ist für mich ein starker Beweis für die Möglichkeiten die entstehen, wenn  Bildung und Forschung keine Grenzen gesetzt werden, sondern diese Länderübergreifend unterstützt werden.
+Dank [Eduroam](https://eduroam.org/), einem Dienst der von der weltweiten Forschungs- und Universitätsgemeinschaft getragen wird, erhalte ich durch meine Bonner Zugangsdaten vollautomatisch Zugriff aufs Internet in über hundert Ländern, sofern ich in Gebäuden einer Uni bin. Somit bin ich in der Mensa und in jedem Hörsaal in Italien und an vielen anderen Orten der Welt ganz einfach angebunden. Das dies so reibungslos funktioniert ist für mich ein starker Beweis für die Möglichkeiten die entstehen, wenn Bildung und Forschung keine Grenzen gesetzt werden, sondern diese Länderübergreifend unterstützt werden.
 
-Nach der Vorlesung ging es mit meinen neuen Freunden noch ein (sehr gutes) Eis essen (über die Preisgestaltung von Eis möchte ich auch noch schreiben). Dann bekam ich ganz unverhofft noch eine kleine Stadtführung, sah zum ersten Mal den Dom (sowie Überbleibsel der Olympia Feierlichkeiten) und war ganz gerührt von der Freundlichkeit und Offenheit, die mir entgegengebracht wurde. Ich wurde zum Abschluss noch bis zur Haltestelle geführt, an der meine Straßenbahn zurück zu Carlos Wohnung fuhr. 
+Nach der Vorlesung ging es mit meinen neuen Freunden noch ein (sehr gutes) Eis essen (über die Preisgestaltung von Eis möchte ich auch noch schreiben). Dann bekam ich ganz unverhofft noch eine kleine Stadtführung, sah zum ersten Mal den Dom (sowie Überbleibsel der Olympia Feierlichkeiten) und war ganz gerührt von der Freundlichkeit und Offenheit, die mir entgegengebracht wurde. Ich wurde zum Abschluss noch bis zur Haltestelle geführt, an der meine Straßenbahn zurück zu Carlos Wohnung fuhr.
 
 {% include figure.liquid loading="eager" path="assets/img/erste-tage/kirche.jpeg" class="img-fluid rounded z-depth-1" caption="Innenraum einer Kirche" zoomable=true %}
 {% include figure.liquid loading="eager" path="assets/img/erste-tage/schoene_strasse.jpeg" class="img-fluid rounded z-depth-1" caption="Bunte Mailänder Häuser" zoomable=true %}
