@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hallo Mailand
+title: Hallo Mailand - meine ersten Tage in Italien
 date: 2026-03-07 12:00:00
 description: Meine Reise nach Italien und die ersten Eindrücke von Mailand.
-tags: italien, kunst, bahn
+tags: italien kunst bahn
 categories: blogging
 thumbnail: assets/img/erste-tage/bahnstrecke.jpeg
 featured: true
@@ -61,7 +61,7 @@ Ich war überrascht, wie gut ich nach nur einem Jahr Italienisch lernen mitkam. 
 
 Ganz unverhofft war meine erste Uni Vorlesung in Mailand weder im Fachbereich Mathematik noch Informatik, wie sie auf meinem Online Learning Agreement für Erasmus eingetragen sind. Stattdessen saß ich, nach einer kurzen Bahnfahrt Richtung Mailands Süden, in einer Kunstgeschichte Vorlesung über Spätgotik und die Renaissance. Als nach einer Stunde im überfüllten und aufgeheißtem Vorlesungssaal (Im Februar wohlgemerkt. Da ich bis zum Juli hierbleibe ,macht mir diese Erfahrung schon leicht Angst) der Prof zu sprechen begann, überkamen mich gleich zwei Überraschungen.
 
-Erstens konnte ich mit meinem mittelmäßigen Italienisch halbwegs mitkommen und somit spannendes über die Einflüsse der Bibel auf die Kunst im 14. Jahrhundert lernen. Zweitens begann ein wahnsinniges Grundrauschen die Luft zu erfüllen, das wie ein Schwarm von 1000 startenden Hummeln klang. Schnell ereilte sich mir, dass das Tippen von etwa 200 Studenten, also +- 400 Händen und somit 4000 Fingern Fingern, die Wild auf ihre Tastaturen und Tablets einhauten dieses absurde Geräusch erzeugten, das mich fast zum Laut loslachen brachte.
+Erstens konnte ich mit meinem mittelmäßigen Italienisch halbwegs mitkommen und somit spannendes über die Einflüsse der Bibel auf die Kunst im 14. Jahrhundert lernen. Zweitens begann ein wahnsinniges Grundrauschen die Luft zu erfüllen, das wie ein Schwarm von 1000 startenden Hummeln klang. Schnell ereilte sich mir, dass das Tippen von etwa 200 Studenten, also +- 400 Händen und somit 2000 Fingern Fingern, die Wild auf ihre Tastaturen und Tablets einhauten dieses absurde Geräusch erzeugten, das mich fast zum Laut loslachen brachte.
 
 Ich, der Mathestudent aus Bonn, der nur das Geräusch von Kreide auf Tafeln gewöhnt war, höchstens begleitet vom gelegentlichen Knallen einer Stuhllehne oder den unliebsamen Geräuschen der Mitstudenten, saß plötzlich, an meinem ersten Tag im 600km Luftlinie entfernten Mailand, nebst einer Horde Menschen, die ich gerade erst in der Mensa kennengelernt hatte, in dieser italienischen Kunstgeschichtevorlesung. Dieses Geräusch löste diese plötzliche Erkenntnis in mir aus, die ich einfach umarmte. Also lehnte ich mich zurück, mit diesen lustigen und schönen Gedanken im Hinterkopf, und genoß das Kabarett.
 

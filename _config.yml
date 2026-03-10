@@ -2,18 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Max Stridde - Mein Blog über ein Semester Erasmus in Italien # the website title (if blank, full name will be used instead)
 first_name: Max
 middle_name: ""
 last_name: Stridde
 contact_note: >
   Sprich mich einfach auf dem Campus an oder schreib mir eine Mail.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hier findest du alles, was ich der Welt mitteilen möchte.
+  Mein 4. Semester im Mathestudium verbringe ich als Erasmusstudent in Mailand, Italien. Hier berichte ich über mein Dolce Vita.
 footer_text: >
   <a href="/impressum/">Impressum</a> · 
   <a href="/datenschutz/">Datenschutz</a> · 
-  <a href="/cookies/">🍪 cookies-free</a>
+  <a href="/cookies/">🍪-cookies-free</a>
 keywords: max-stridde, blog, mathematik, italien, mailand, milano, bonn, fotos, academic-website, portfolio-website # add your own keywords or leave empty
 lang: de # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🇮🇹 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Max Stridde # blog_name will be displayed in your blog page
-blog_description: Hier findest du alles, was ich der Welt mitteilen möchte.
+blog_description: Mein 4. Semester im Mathestudium verbringe ich als Erasmusstudent in Mailand, Italien. Hier berichte ich über mein Dolce Vita.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

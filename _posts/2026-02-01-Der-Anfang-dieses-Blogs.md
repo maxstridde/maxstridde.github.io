@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Der Anfang
+title: Der Anfang dieses Blogs
 date: 2026-02-01 12:00:00
-description: Warum ein Blog? Gute Frage!
-tags: mathe, italien
+description: Warum schreibe ich einen Blog? Das ist eine gute Frage!
+tags: mathe italien
 categories: blogging
 thumbnail: assets/img/hello-world-unsplash.jpg
 featured: true
