@@ -29,11 +29,10 @@ In meinem Fall trafen **alle diese Punkte** zu. Vielmehr noch: Ich war nicht mal
 {% include figure.liquid loading="eager" path="assets/img/erste-tage/martinitt_hof.jpeg" alt="Der Innenhof vom Campus Martinitt" caption="Der Innenhof vom Campus" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 > La tua stanza è nel Padiglione Fiume, so in building `F`
-> 
+>
 > Der Pförter, der mir den Schlüssel überreichte
 
-Ich, ganz im Vertrauen auf den Pförtner, der gerade meinen Perso gescannt hatte, 20 Unterschriften eingesammelt hatte, bereits vor 4 Monaten die ersten 300€ Anzahlung für mein Zimmer erhalten hat (vermutlich nicht er persönlich) und dem ich angesichts meiner Abhängigkeit von einem bezahlbaren Zimmer in Mailand eine _halbe Niere_ abgegeben hätte, 
-folgte am 1. März 2026 dieser Wegbeschreibung zu meinem neuen Zimmer und schloss die Tür in mein neues Wohnglück auf.
+Ich, ganz im Vertrauen auf den Pförtner, der gerade meinen Perso gescannt hatte, 20 Unterschriften eingesammelt hatte, bereits vor 4 Monaten die ersten 300€ Anzahlung für mein Zimmer erhalten hat (vermutlich nicht er persönlich) und dem ich angesichts meiner Abhängigkeit von einem bezahlbaren Zimmer in Mailand eine _halbe Niere_ abgegeben hätte, folgte am 1. März 2026 dieser Wegbeschreibung zu meinem neuen Zimmer und schloss die Tür in mein neues Wohnglück auf.
 
 {% include figure.liquid loading="eager" path="assets/img/erste-tage/campus_plan.jpg" alt="Gebäudeplan vom Campus Martinitt" caption="Gebäudeplan vom Campus Martinitt" class="img-fluid rounded z-depth-1" zoomable=true %}
 
