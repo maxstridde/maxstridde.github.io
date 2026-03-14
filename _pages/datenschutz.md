@@ -1,6 +1,6 @@
 ---
 layout: default
-title: datenschutz
+title: Datenschutz
 permalink: /datenschutz/
 nav: false
 ---
