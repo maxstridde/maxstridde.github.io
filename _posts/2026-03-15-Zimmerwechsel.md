@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Warum ich nach nur 1 Woche mein Zimmer wechseln musste (unfreiwillig)
+title: Warum ich nach nur 1 Woche mein Zimmer wechseln musste - unfreiwillig
 date: 2026-03-15 12:00:00
 description: Eine Reihe unvorhergesehener Ereignisse führte dazu, dass ich mein Zimmer unter höchst ungünstigen Umständen wechseln musste.
 tags: italien wohnheim wohnen
