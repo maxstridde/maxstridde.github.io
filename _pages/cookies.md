@@ -1,6 +1,6 @@
 ---
 layout: default
-title: cookies
+title: Cookies
 permalink: /cookies/
 nav: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Umzug
-date: 2026-03-01 12:00:00
+date: 2026-03-01 9:00:00
 inline: true
 related_posts: true
 ---

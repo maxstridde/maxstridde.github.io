@@ -6,7 +6,7 @@ description: Warum schreibe ich einen Blog? Das ist eine gute Frage!
 tags: mathe italien
 categories: blogging
 thumbnail: assets/img/hello-world-unsplash.jpg
-featured: true
+featured: false
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: impressum
+title: Impressum
 permalink: /impressum/
 nav: false
 ---
