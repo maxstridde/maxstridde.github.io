@@ -7,6 +7,7 @@ tags: italien kunst bahn
 categories: blogging
 thumbnail: assets/img/erste-tage/bahnstrecke.jpeg
 featured: true
+social: true
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
