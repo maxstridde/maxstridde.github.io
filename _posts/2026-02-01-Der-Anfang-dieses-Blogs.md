@@ -7,6 +7,7 @@ tags: mathe italien
 categories: blogging
 thumbnail: assets/img/hello-world-unsplash.jpg
 featured: false
+social: true
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items

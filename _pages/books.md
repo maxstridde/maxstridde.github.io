@@ -1,6 +1,7 @@
 ---
 layout: book-shelf
 title: Bücher
+social: true
 permalink: /books/
 nav: false
 collection: books

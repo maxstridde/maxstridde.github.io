@@ -7,6 +7,7 @@ tags: italien wohnheim wohnen
 categories: blogging
 thumbnail: assets/img/erste-tage/martinitt_hof.jpeg
 featured: true
+social: true
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items

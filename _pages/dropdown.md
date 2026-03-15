@@ -8,6 +8,9 @@ children:
   - title: Bücher
     permalink: /books/
   - title: divider
+  - title: News
+    permalink: /news/
+  - title: divider
   - title: CV
     permalink: https://www.linkedin.com/in/max-stridde/
 ---
