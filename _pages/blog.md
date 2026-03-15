@@ -14,6 +14,7 @@ pagination:
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
+social: true # includes social icons at the bottom of the page
 ---
 
 <div class="post">
