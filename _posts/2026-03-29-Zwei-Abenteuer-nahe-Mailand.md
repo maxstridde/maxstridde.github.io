@@ -61,7 +61,7 @@ Nur wenige Tage später kam Dominic zu besuch nach Mailand. Da er mit einem Freu
 
 Samstag um 7:00 Uhr startete den Tag mit der Bahn nach Brescia und dort stiegen wir in die Bimmelbahn mit Endstation Edolo um. Somit begann unsere Radtour in den italienischen Bergen auf **800 Höhenmetern**. Unser Ziel Mailand liegt deutlich tiefer auf nur **120 Höhenmetern**. Neben dem Vorteil, das wir viel bergab fahren konnten (Es gab auch ausreichend Bergaufpassagen), konnten wir so mit Blick auf schneebedeckte 3.000er starten und während unserer Fahrt vorbei am Lago d'Iseo bis nach Mailand einmal den kompletten Tapetenwechsel der Landschaft miterleben.
 
-Wir hatten zwei unfassbar schöne Fahrradtag und übernachteten in einem wenige Tage vorher gebuchten Airbnb in Sarnico, direkt am See. Am zweiten Tag verblieb uns landschaftlich die Tiefebene, welche wir  im Windschatten und mit Tempo 30 (Zeitweise, dank NFC Monster) durchquerten.
+Wir hatten zwei unfassbar schöne Fahrradtag und übernachteten in einem wenige Tage vorher gebuchten Airbnb in Sarnico, direkt am See. Am zweiten Tag verblieb uns landschaftlich die Tiefebene, welche wir im Windschatten und mit Tempo 30 (Zeitweise, dank NFC Monster) durchquerten.
 
 Insgesamt hatten wir ein hammermäßiges Wochenende, das mich sofort aus meinem Unikontext heraus- und in den Urlaubsmodus hineinkatapultiert hat. Die Nähe der Berge, und somit von großartigen Urlaubszielen für den Sommersport, ist in Mailand wirklich unschlagbar. Was für ein Glück, dass ich hier ein Semester verbringen darf und dass meine Freunde die Vorliebe für sportliche Aktivitäten teilen.
 
