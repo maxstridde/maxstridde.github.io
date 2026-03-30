@@ -6,7 +6,7 @@ description: Eine Reihe unvorhergesehener Ereignisse führte dazu, dass ich mein
 tags: italien wohnheim wohnen
 categories: blogging
 thumbnail: assets/img/erste-tage/martinitt_hof.jpeg
-featured: true
+featured: false
 social: true
 latest_posts:
   enabled: true
