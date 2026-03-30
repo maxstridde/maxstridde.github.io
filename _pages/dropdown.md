@@ -16,5 +16,4 @@ children:
   - title: divider
   - title: CV
     permalink: https://www.linkedin.com/in/max-stridde/
-  
 ---
