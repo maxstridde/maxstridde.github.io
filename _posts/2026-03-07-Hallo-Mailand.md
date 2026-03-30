@@ -20,7 +20,7 @@ Es ist der 24. Februar 2026. Ich steige gegen 7 Uhr am Kölner Hauptbahnhof in m
 
 Ich bin mal wieder Lieblingsgast der DB, obwohl wir **keinerlei Verspätung** haben. Mein zweiter Zug, der mich bis nach Mailand trägt, ist gleichermaßen pünktlich und liefert mir _leider Gottes_ keinen Gesprächsstoff für diesen Blog. Stattdessen miete ich mir auf der Zugfahrt, für unschlagbare 1€ im ersten Jahr, die Domain [maxstridde.de](https://www.maxstridde.de/). Gleichzeitig fährt die wunderschöne Schweizer Berg- und Seenlandschaft an mir vorbei. Selbst wenn es Italien nicht gäbe, müsste ich einfach ab und an Richtung Süden fahren, nur um dieses unfassbare Naturschauspiel zu genießen.
 
-{% include figure.liquid loading="eager" path="assets/img/erste-tage/bahnstrecke.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="Ausblick aus dem Zug" %}
+{% include figure.liquid loading="eager" path="assets/img/erste-tage/bahnstrecke.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="Ausblick aus dem Zug" alt="Ausblick aus dem Zugfenster" %}
 
 # Abgefahren
 
@@ -44,15 +44,15 @@ An meinem ersten Tag in Mailand sollte sich mein Schlafdefizit nicht reduzieren,
 
 Da ich schließlich in **Mailand** bin, aßen wir die typisch sizilianischen Cannoli, also frittierte Teigröllchen die mit Ricottacreme gefüllt sind. Neben einem ausgeklügelten Kanalsystem, über das unter anderem der Marmor für den Mailänder Dom antransportiert wurde, war ich von der unmittelbaren Vielfalt der Stadt und seinen monströsen Gebäuden beeindruckt. Schon an diesem ersten Abend war mir klar, dass ich genau die richtige Entscheidung getroffen habe.
 
-{% include figure.liquid loading="eager" path="assets/img/erste-tage/hauserblock.jpeg" class="img-fluid rounded z-depth-1" caption="Ein Mailänder Häuserblock" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/erste-tage/hauserblock.jpeg" class="img-fluid rounded z-depth-1" caption="Ein Mailänder Häuserblock" alt="Mailänder Häuserfront" zoomable=true %}
 
 Über meine Mobilität in der Stadt schreibe ich ein anderen Mal. Insgesamt ist Mailand relativ hoch gebaut und dadurch Flächenmäßig nicht übermäßig groß. Der ÖPNV ist recht gut und ein langsam wachsendes Netz von Fahrradwegen durchzieht die Stadt. Vor allem die Stadträder, die man Stückweise für 30 Minuten **gratis** nutzen kann, wenn man das Jahresabo für 36€ abschließt, kommen mir sehr gelegen.
 
-{% include figure.liquid loading="eager" path="assets/img/erste-tage/unterwegs.jpeg" class="img-fluid rounded z-depth-1" caption="Ausblick auf Mailänder Fahrradweg" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/erste-tage/unterwegs.jpeg" class="img-fluid rounded z-depth-1" caption="Ausblick auf Mailänder Fahrradweg" alt="Fahrradweg vom Fahrrad aus betrachtet" zoomable=true %}
 
 An meinem ersten ganzen Tag in Mailand machte ich mich Vormittags alleine auf den Weg, um meinen Uniausweis abzuholen.
 
-{% include figure.liquid loading="eager" path="assets/img/erste-tage/studentenausweis.jpeg" class="img-fluid rounded z-depth-1" caption="Mein Mailänder Studentenausweis" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/erste-tage/studentenausweis.jpeg" class="img-fluid rounded z-depth-1" caption="Mein Mailänder Studentenausweis" alt="Mailänder Studentenausweis" zoomable=true %}
 
 Wie es der _Zufall_ wollte, befand sich direkt neben dem Verwaltungsgebäude eine Mensa, in der ich für 6,60€ eine wirklich leckere und vollwerte Mahlzeit bekam. Enthalten darin waren **Primo** (eine von zwei Nudelsorten ), **Secondo** (Fisch, Fleisch oder Vegetarisch mit zwei Beilagen), **Dolce** (Pudding, Joghurt oder Obst), Trinken sowie Grissini und Cracker zum Selbstbedienen. Der Zufall hat mir sehr in die Karten gespielt, da ich mich in der Schlange an Simone wendete, um zu erfragen, wie die Essensausgabe funktioniert. Seinen Namen erfuhr ich hingegen erst, nachdem ich mich zum Essen mit an seinen Tisch gesetzt hatte und am lustigen Tischgespräch teilnahm.
 
@@ -72,8 +72,8 @@ Dank [Eduroam](https://eduroam.org/), einem Dienst der von der weltweiten Forsch
 
 Nach der Vorlesung ging es mit meinen neuen Freunden noch ein (sehr gutes) Eis essen (über die Preisgestaltung von Eis möchte ich auch noch schreiben). Dann bekam ich ganz unverhofft noch eine kleine Stadtführung, sah zum ersten Mal den Dom (sowie Überbleibsel der Olympia Feierlichkeiten) und war ganz gerührt von der Freundlichkeit und Offenheit, die mir entgegengebracht wurde. Ich wurde zum Abschluss noch bis zur Haltestelle geführt, an der meine Straßenbahn zurück zu Carlos Wohnung fuhr.
 
-{% include figure.liquid loading="eager" path="assets/img/erste-tage/kirche.jpeg" class="img-fluid rounded z-depth-1" caption="Innenraum einer Kirche" zoomable=true %}
-{% include figure.liquid loading="eager" path="assets/img/erste-tage/schoene_strasse.jpeg" class="img-fluid rounded z-depth-1" caption="Bunte Mailänder Häuser" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/erste-tage/kirche.jpeg" class="img-fluid rounded z-depth-1" caption="Innenraum einer Kirche" alt="Altar in einer schmuckvollen Kirche" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/erste-tage/schoene_strasse.jpeg" class="img-fluid rounded z-depth-1" caption="Bunte Mailänder Häuser" alt="Bunte Wohnhäuser in Mailänder Wohnviertel" zoomable=true %}
 
 Ein erster Kontakt wurde ausgetauscht und ebenso wie meine Mitfahrgelegenheit auf Schienen "bahnte sich an", dass ich mit diesen Italienern bald noch mehr Zeit verbringen würde. Schon an diesem ersten Tag schloß ich sie in mein Herz.
 

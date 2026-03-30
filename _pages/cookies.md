@@ -3,6 +3,7 @@ layout: default
 title: Cookies
 permalink: /cookies/
 nav: false
+social: true
 ---
 
 # Kein Cookie Banner und keine lästigen Cookies
