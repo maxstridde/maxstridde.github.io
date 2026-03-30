@@ -5,7 +5,7 @@ date: 2026-03-29 18:00:00
 description: Wie ich spontan meinen ersten Klettersteig absolvierte und mit zwei Freunden eine Fahrrartour in den Bergen unternahm.
 tags: italien sport fahrradtour berge klettersteig
 categories: blogging
-thumbnail: assets/img/zwei-abenteuer/max.jpeg
+thumbnail: assets/img/zwei-abenteuer/max.jpg
 featured: true
 social: true
 latest_posts:
@@ -29,12 +29,6 @@ Da Carlo gerade mit seinen Klausuren fertig geworden ist, haben wir die Gunst de
 Wanderschuhe, Klettergurt und Helm hatte ich in Antizipation eines gemeinsamen Kletterausfluges aus Deutschland mitgenommen. Das Sicherungsseil mit Federung sowie Kletterhandschuhe stellte mir zum Glück Carlo, sodass es nach kurzer Unterweisung los gehen konnte. Es war mein erster Klettersteig und ein wunderschöner dazu. Wir kamen eben so bei Sonnenuntergang oben an. Während der etwa 300 Höhenmetern an der Steilwand hatten wir dadurch einen genialen Blick ins Tal, auf den See und auf die hinter den Bergen verschwindende Sonne. Mit Stirnlampen ging es im Dunkeln wieder den Berg hinab. Nach dem Heimfahrt und eine leckere Pizza später fiel ich müde und glücklich ins Bett.
 
 <div class="pswp-gallery pswp-gallery--single-column" id="gallery-1">
-  <a href="https://www.maxstridde.de/assets/img/zwei-abenteuer/klettersteig-4.jpg"
-    data-pswp-width="1200"
-    data-pswp-height="1600" 
-    target="_blank">
-    <img src="https://www.maxstridde.de/assets/img/zwei-abenteuer/klettersteig-4-klein.jpg" alt="Einstieg vom Klettersteig" />
-  </a>
   <a href="https://www.maxstridde.de/assets/img/zwei-abenteuer/klettersteig-3.jpg"
     data-pswp-width="1200"
     data-pswp-height="1600" 
@@ -54,6 +48,8 @@ Wanderschuhe, Klettergurt und Helm hatte ich in Antizipation eines gemeinsamen K
     <img src="https://www.maxstridde.de/assets/img/zwei-abenteuer/klettersteig-1-klein.jpg" alt="Der Blick ins Tal bei Nacht" />
   </a>
 </div>
+
+---
 
 ## Radtour am Bergsee
 
@@ -102,23 +98,11 @@ Insgesamt hatten wir ein hammermäßiges Wochenende, das mich sofort aus meinem 
     target="_blank">
     <img src="https://www.maxstridde.de/assets/img/zwei-abenteuer/kolonne-3-klein.jpg" alt="" />
   </a>
-  <a href="https://www.maxstridde.de/assets/img/zwei-abenteuer/see-1.jpg"
-    data-pswp-width="1600"
-    data-pswp-height="1200" 
-    target="_blank">
-    <img src="https://www.maxstridde.de/assets/img/zwei-abenteuer/see-1-klein.jpg" alt="" />
-  </a>
   <a href="https://www.maxstridde.de/assets/img/zwei-abenteuer/see-2.jpg"
     data-pswp-width="1200"
     data-pswp-height="1600" 
     target="_blank">
     <img src="https://www.maxstridde.de/assets/img/zwei-abenteuer/see-2-klein.jpg" alt="" />
-  </a>
-  <a href="https://www.maxstridde.de/assets/img/zwei-abenteuer/see-3.jpg"
-    data-pswp-width="1600"
-    data-pswp-height="1200" 
-    target="_blank">
-    <img src="https://www.maxstridde.de/assets/img/zwei-abenteuer/see-3-klein.jpg" alt="" />
   </a>
   <a href="https://www.maxstridde.de/assets/img/zwei-abenteuer/berge-2.jpg"
     data-pswp-width="1200"
@@ -149,5 +133,17 @@ Insgesamt hatten wir ein hammermäßiges Wochenende, das mich sofort aus meinem 
     data-pswp-height="1600" 
     target="_blank">
     <img src="https://www.maxstridde.de/assets/img/zwei-abenteuer/kirche-klein.jpg" alt="" />
+  </a>
+  <a href="https://www.maxstridde.de/assets/img/zwei-abenteuer/see-1.jpg"
+    data-pswp-width="1600"
+    data-pswp-height="1200" 
+    target="_blank">
+    <img src="https://www.maxstridde.de/assets/img/zwei-abenteuer/see-1-klein.jpg" alt="" />
+  </a>
+  <a href="https://www.maxstridde.de/assets/img/zwei-abenteuer/see-3.jpg"
+    data-pswp-width="1600"
+    data-pswp-height="1200" 
+    target="_blank">
+    <img src="https://www.maxstridde.de/assets/img/zwei-abenteuer/see-3-klein.jpg" alt="" />
   </a>
 </div>
