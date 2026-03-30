@@ -111,17 +111,17 @@ layout: default
         {% if page.cover %}
           <img class="empty-review-cover" alt="{{ page.title }} cover" src="{{ site.baseurl }}/{{ page.cover }}">
           <figcaption class="empty-review-caption">
-            Cover of <em>{{ page.title }}</em>
+            Cover von <em>{{ page.title }}</em>
           </figcaption>
         {% elsif page.olid %}
           <img class="empty-review-cover" alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ page.olid }}-L.jpg?default=false">
           <figcaption class="empty-review-caption">
-            Cover of <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.
+            Cover von <em>{{ page.title }}</em> auf <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.
           </figcaption>
         {% elsif page.isbn %}
           <img class="empty-review-cover" alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ page.isbn }}-L.jpg?default=false">
           <figcaption class="empty-review-caption">
-            Cover of <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.
+            Cover von <em>{{ page.title }}</em> auf <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.
           </figcaption>
         {% endif %}
       </figure>
@@ -138,17 +138,12 @@ layout: default
           </figcaption>
         {% elsif page.olid %}
           <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ page.olid }}-L.jpg?default=false">
-          <figcaption>
-            Cover of <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.
-          </figcaption>
+          <figcaption>Cover, auf <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.</figcaption>
         {% elsif page.isbn %}
           <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ page.isbn }}-L.jpg?default=false">
-          <figcaption>
-            Cover of <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.
-          </figcaption>
+          <figcaption>Cover, auf <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.</figcaption>
         {% endif %}
       </figure>
-      <br class="mobile-break" clear="right">
       <h4>
         {% if page.start %} Start Date: {{ page.start | date: '%-d %B %Y' }}. {% endif %}
         {% if page.end %} End Date: {{ page.end | date: '%-d %B %Y' }}. {% endif %}
@@ -157,21 +152,15 @@ layout: default
     {% endif %}
   </article>
 
-  <!-- Social -->
-  {% if page.social %}
-    <div class="social">
-      <div class="contact-icons">{% include social.liquid %}</div>
-
-      <div class="contact-note">{{ site.contact_note }}</div>
-    </div>
-  {% endif %}
-
   {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
   {% endif %}
 </div>
 
 <style>
+      .post article {
+        display: flow-root;
+      }
       figure {
         float: none;
         width: auto;
@@ -222,7 +211,7 @@ layout: default
           figure {
 
                 float: right;
-                display: in-line block; /* in-line block; */
+                display: inline-block; /* inline-block; */
                 margin: 0px 0px 0px 0px;  /* adjust as needed */
                 padding: 0px 0px 0px 20px;
                /* top right bottom left */
@@ -247,7 +236,7 @@ layout: default
   blockquote {
 
       position: relative;
-      marign: 0px;
+      margin: 0px;
       display: table;
 
   }
