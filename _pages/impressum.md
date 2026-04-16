@@ -20,7 +20,7 @@ Stettiner Str. 41
 
 ## Kontakt:
 
-**E-Mail:** maxstridde@posteo.de
+**E-Mail:** maxstridde@posteo.de  
 **Telefon:** 01579-2341672 (Die Telefonnummer wird von Dein Impressum betrieben.)
 
 ## Regulierungs- und Aufsichtsbehörde (Landesmedienanstalt):
