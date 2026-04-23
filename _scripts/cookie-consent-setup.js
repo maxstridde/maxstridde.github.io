@@ -66,7 +66,7 @@ function initializeCookieConsent() {
     },
 
     language: {
-      default: 'en',
+      default: 'de',
       translations: {
         en: {
           consentModal: {
@@ -99,7 +99,43 @@ function initializeCookieConsent() {
               },
               {
                 title: 'More information',
-                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="{{ site.url }}{{ site.baseurl }}/#contact">contact us</a>.'
+                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="/impressum">contact us</a>.'
+              }
+            ]
+          }
+        },
+        de: {
+          consentModal: {
+            title: 'Wir verwenden Cookies',
+            description: 'Diese Website verwendet Cookies, um Ihre Erfahrung zu verbessern und den Website-Traffic zu analysieren. Durch Klicken auf „Alle akzeptieren“ stimmen Sie der Verwendung von Cookies zu.',
+            acceptAllBtn: 'Alle akzeptieren',
+            acceptNecessaryBtn: 'Alle ablehnen',
+            showPreferencesBtn: 'Individuelle Einstellungen verwalten'
+          },
+          preferencesModal: {
+            title: 'Cookie-Einstellungen verwalten',
+            acceptAllBtn: 'Alle akzeptieren',
+            acceptNecessaryBtn: 'Alle ablehnen',
+            savePreferencesBtn: 'Auswahl speichern',
+            closeIconLabel: 'Close modal',
+            sections: [
+              {
+                title: 'Verwendung von Cookies',
+                description: 'Wir verwenden Cookies, um die grundlegenden Funktionen der Website sicherzustellen und Ihr Online-Erlebnis zu verbessern. Sie können für jede Kategorie jederzeit entscheiden, ob Sie zustimmen oder nicht.'
+              },
+              {
+                title: 'Unbedingt erforderliche Cookies',
+                description: 'Diese Cookies sind für das ordnungsgemäße Funktionieren der Website unerlässlich. Ohne diese Cookies würde die Website nicht korrekt funktionieren.',
+                linkedCategory: 'necessary'
+              },
+              {
+                title: 'Analyse-Cookies',
+                description: 'Diese Cookies ermöglichen es uns, den Traffic zu messen und Ihr Verhalten zu analysieren, um unseren Service zu verbessern.',
+                linkedCategory: 'analytics'
+              },
+              {
+                title: 'Weitere Informationen',
+                description: 'Bei Fragen zu unserer Cookie-Richtlinie und Ihren Auswahlmöglichkeiten können Sie uns bitte <a class="cc-link" href="/impressum">kontaktieren</a>.'
               }
             ]
           }

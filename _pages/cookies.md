@@ -6,10 +6,11 @@ nav: false
 social: true
 ---
 
-# Kein Cookie Banner und keine lästigen Cookies
+# Sparsame Cookies
 
-Auf meiner Website kommen nur Cookies zum Einsatz, die technisch notwendig sind, also solche, damit alles reibungslos funktioniert.  
-Wir nutzen keine Tracking-, Analyse- oder Werbe-Cookies und brauchen daher auch kein lästiges Cookie-Banner.
+Auf meiner Website kommen nur Cookies zum Einsatz, die technisch notwendig sind, also solche, damit alles reibungslos funktioniert.
+
+Wir nutzen keine Tracking-, Analyse- oder Werbe-Cookies.
 
 Mehr Infos im Reiter [Datenschutz](/datenschutz/).
 
@@ -18,3 +19,5 @@ Mehr Infos im Reiter [Datenschutz](/datenschutz/).
         {% include figure.liquid loading="eager" path="assets/img/cookies-unsplash.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+---

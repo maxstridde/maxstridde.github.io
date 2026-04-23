@@ -19,3 +19,5 @@ announcements:
 ## Dieser Blog
 
 Läuft über <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> mit dem <a href="https://github.com/alshedivat/al-folio">al-folio</a> Theme. Gehosted auf <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+---

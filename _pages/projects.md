@@ -2,10 +2,10 @@
 layout: page
 title: Prosa
 permalink: /prosa/
-description: A growing collection of your cool projects.
+description: Eine wachsende Sammlung verschiedener Texte von mir.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Texte] # [Texte, fun]
 horizontal: false
 ---
 

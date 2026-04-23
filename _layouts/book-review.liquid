@@ -107,25 +107,17 @@ layout: default
         {% if page.cover %}
           <img class="empty-review-cover" alt="{{ page.title }} cover" src="{{ site.baseurl }}/{{ page.cover }}">
           <figcaption class="empty-review-caption">
-            Cover of <em>{{ page.title }}</em>
+            Cover von <em>{{ page.title }}</em>
           </figcaption>
         {% elsif page.olid %}
-          <img
-            class="empty-review-cover"
-            alt="{{ page.title }} cover"
-            src="https://covers.openlibrary.org/b/olid/{{ page.olid }}-L.jpg?default=false"
-          >
+          <img class="empty-review-cover" alt="{{ page.title }} cover" src="https://covers.openlibrary.org/b/olid/{{ page.olid }}-L.jpg?default=false">
           <figcaption class="empty-review-caption">
-            Cover of <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.
+            Cover von <em>{{ page.title }}</em> auf <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.
           </figcaption>
         {% elsif page.isbn %}
-          <img
-            class="empty-review-cover"
-            alt="{{ page.title }} cover"
-            src="https://covers.openlibrary.org/b/isbn/{{ page.isbn }}-L.jpg?default=false"
-          >
+          <img class="empty-review-cover" alt="{{ page.title }} cover" src="https://covers.openlibrary.org/b/isbn/{{ page.isbn }}-L.jpg?default=false">
           <figcaption class="empty-review-caption">
-            Cover of <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.
+            Cover von <em>{{ page.title }}</em> auf <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.
           </figcaption>
         {% endif %}
       </figure>
@@ -142,17 +134,12 @@ layout: default
           </figcaption>
         {% elsif page.olid %}
           <img alt="{{ page.title }} cover" src="https://covers.openlibrary.org/b/olid/{{ page.olid }}-L.jpg?default=false">
-          <figcaption>
-            Cover of <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.
-          </figcaption>
+          <figcaption><em>Cover, auf <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.</em></figcaption>
         {% elsif page.isbn %}
           <img alt="{{ page.title }} cover" src="https://covers.openlibrary.org/b/isbn/{{ page.isbn }}-L.jpg?default=false">
-          <figcaption>
-            Cover of <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.
-          </figcaption>
+          <figcaption><em>Cover, auf <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.</em></figcaption>
         {% endif %}
       </figure>
-      <br class="mobile-break" clear="right">
       <h4>
         {% if page.start %} Start Date: {{ page.start | date: '%-d %B %Y' }}. {% endif %}
         {% if page.end %} End Date: {{ page.end | date: '%-d %B %Y' }}. {% endif %}
@@ -167,6 +154,9 @@ layout: default
 </div>
 
 <style>
+      .post article {
+        display: flow-root;
+      }
       figure {
         float: none;
         width: auto;
@@ -188,7 +178,7 @@ layout: default
 
         display: block;
         caption-side: bottom;
-        text-align: center;
+        text-align: left;
       }
 
       @media screen and (min-width: 600px)  {
@@ -217,7 +207,7 @@ layout: default
           figure {
 
                 float: right;
-                display: in-line block; /* in-line block; */
+                display: inline-block; /* inline-block; */
                 margin: 0px 0px 0px 0px;  /* adjust as needed */
                 padding: 0px 0px 0px 20px;
                /* top right bottom left */
@@ -231,7 +221,7 @@ layout: default
 
           figure figcaption {
                   caption-side: bottom;
-                  text-align: left;
+                  text-align: center;
 
                   }
 
@@ -242,7 +232,7 @@ layout: default
   blockquote {
 
       position: relative;
-      marign: 0px;
+      margin: 0px;
       display: table;
 
   }

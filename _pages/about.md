@@ -12,7 +12,7 @@ profile:
     <p>Bonn, Deutschland</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 latest_posts:
   enabled: true
@@ -25,7 +25,7 @@ announcements:
   limit: 3 # leave blank to include all the news in the `_news` folder
 ---
 
-## Persönlich:
+## Persönlich
 
 Mein ganzer Name ist Alexander Maximilian Stridde. Du kannst mich einfach Max nennen. Ich interessiere mich für:
 
@@ -35,7 +35,7 @@ Mein ganzer Name ist Alexander Maximilian Stridde. Du kannst mich einfach Max ne
 - Kochen und Backen
 - Texte, Bilder und Videos
 
-## Akademisches:
+## Akademisches
 
 Ich studiere Mathematik an der [Universität Bonn](https://www.uni-bonn.de). Im Sommersemester 2026 verbringe ich ein halbes Jahr mit Erasmus an der [Università degli Studi di Milano](https://www.unimi.it/en) in Italien. Auf diesem Blog berichte ich unter anderem, wie meine [ersten Tage in Italien](https://www.maxstridde.de/blog/2026/Hallo-Mailand/) vergangen sind.
 

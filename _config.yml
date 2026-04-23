@@ -13,7 +13,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   <a href="/impressum/">Impressum</a> · 
   <a href="/datenschutz/">Datenschutz</a> · 
-  <a href="/cookies/">🍪-cookies-free</a>
+  <a href="/cookies/">🍪-cookies</a>
 keywords: max-stridde, blog, mathematik, italien, mailand, milano, bonn, fotos, academic-website, portfolio-website # add your own keywords or leave empty
 lang: de # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🇮🇹 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -61,7 +61,7 @@ posts_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 770px
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org

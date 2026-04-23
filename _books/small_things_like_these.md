@@ -14,7 +14,7 @@ finished: 2025-06-14
 released: 2021
 stars: 5
 status: Finished
-social: true
+social: false
 ---
 
 An incredible book. It takes an immensely difficult topic and portraits it very delicately and lightly. It is so wonderful to read. It has such beautiful language. Just inbetween the lines you can see behind the curtain and the lighntness of it all.
