@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-prosa",
           title: "Prosa",
-          description: "A growing collection of your cool projects.",
+          description: "Eine wachsende Sammlung verschiedener Texte von mir.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/prosa/";
@@ -115,11 +115,16 @@ ninja.data = [{
           section: "News",},{id: "news-freut-euch-und-wartet-noch-ein-wenig-länger-auf-den-nächsten-post-das-heißt-natürlich-nicht-dass-es-aktuell-nichts-zu-berichten-gäbe-ich-würde-gerne-sagen-dass-mir-bei-all-den-vielen-erlebnissen-gar-keine-zeit-bleibt-um-am-blog-zu-schreiben-während-dies-an-manchen-tagen-stimmt-kommt-mir-auch-die-erste-klausurphase-dazwischen-in-italien-gibt-es-bereits-zur-hälfte-des-semesters-prüfungen-die-auch-zur-hälfte-in-die-endnote-einzählen-obendrein-schreibe-ich-gerade-an-mehreren-texten-gleichzeitig-bald-geht-es-also-weiter",
           title: 'Freut euch (und wartet) noch ein wenig länger auf den nächsten Post :)....',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-kämpfen-für-die-liebe",
+          title: 'Kämpfen für die Liebe',
+          description: "Über die Verflechtungenen zwischen Kampfsport und Beziehungen.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/kaempfen/";
+            },},{id: "projects-der-panther-in-dir",
+          title: 'Der Panther in dir',
+          description: "Mein Versuch, ein Gedicht umzuschreiben, ist gescheitert. Inzwischen freue ich mich sogar darüber.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/panther/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
