@@ -17,7 +17,7 @@ footer_text: >
   <a href="/cookies/">🍪-cookies</a>
 keywords: italien, mailand, milano, erasmus, student, mathematik # add your own keywords or leave empty
 lang: de # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://maxstridde.de # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -177,6 +177,7 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
+  - _teachings/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - INSTALL.md
@@ -195,6 +196,10 @@ exclude:
   - purgecss.config.js
   - readme_preview/
   - vendor
+  - assets/rendercv/rendercv_output/Albert_Einstein_CV.pdf
+  - assets/plotly/demo.html
+  - assets/pdf/example_pdf.pdf
+  - assets/html/relativity.html
 keep_files:
   - CNAME
   - .nojekyll
