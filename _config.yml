@@ -177,6 +177,7 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
+  - _teachings/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - INSTALL.md
@@ -195,6 +196,10 @@ exclude:
   - purgecss.config.js
   - readme_preview/
   - vendor
+  - assets/rendercv/rendercv_output/Albert_Einstein_CV.pdf
+  - assets/plotly/demo.html
+  - assets/pdf/example_pdf.pdf
+  - assets/html/relativity.html
 keep_files:
   - CNAME
   - .nojekyll
