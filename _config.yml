@@ -6,6 +6,7 @@ title: Max Stridde # the website title (if blank, full name will be used instead
 first_name: Max
 middle_name: ""
 last_name: Stridde
+author: Max Stridde
 contact_note: >
   Sprich mich einfach auf dem Campus an oder schreib mir eine Mail.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -14,11 +15,11 @@ footer_text: >
   <a href="/impressum/">Impressum</a> · 
   <a href="/datenschutz/">Datenschutz</a> · 
   <a href="/cookies/">🍪-cookies</a>
-keywords: max-stridde, blog, mathematik, italien, mailand, milano, bonn, fotos, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: italien, mailand, milano, erasmus, student, mathematik # add your own keywords or leave empty
 lang: de # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🇮🇹 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://maxstridde.github.io # the base hostname & protocol for your site
+url: https://maxstridde.de # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
