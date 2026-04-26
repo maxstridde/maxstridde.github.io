@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.linkedin.com/in/max-stridde/";
               },
-            },{id: "post-zwei-abenteuer-nahe-mailand",
+            },{id: "post-was-macht-ein-erasmusstudent-alles-in-mailand",
+        
+          title: "Was macht ein Erasmusstudent alles in Mailand?",
+        
+        description: "In Mailand gibt es so einiges zu tun. In diesem Blopost berichte ich von einigen kuriosen Erlebnissen, mit denen ich vor meiner Ankunft nicht gerechnet hätte.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Erasmusstudent-in-Mailand/";
+          
+        },
+      },{id: "post-zwei-abenteuer-nahe-mailand",
         
           title: "Zwei Abenteuer nahe Mailand",
         
