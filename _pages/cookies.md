@@ -10,13 +10,13 @@ social: true
 
 Auf meiner Website kommen nur Cookies zum Einsatz, die technisch notwendig sind, also solche, damit alles reibungslos funktioniert.
 
-Wir nutzen keine Tracking-, Analyse- oder Werbe-Cookies.
+Ich nutze keine Tracking-, Analyse- oder Werbe-Cookies.
 
 Mehr Infos im Reiter [Datenschutz](/datenschutz/).
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0" style="display: block; margin-left: auto; margin-right: auto; max-width: 60%;">
-        {% include figure.liquid loading="eager" path="assets/img/cookies-unsplash.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/cookies-unsplash.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
 </div>
 
