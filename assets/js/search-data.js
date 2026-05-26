@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.linkedin.com/in/max-stridde/";
               },
-            },{id: "post-was-macht-ein-erasmusstudent-alles-in-mailand",
+            },{id: "post-die-top-12-sehenswürdigkeiten-in-mailand",
+        
+          title: "Die Top-12-Sehenswürdigkeiten in Mailand",
+        
+        description: "Das schönste an Mailand? Alles drumherum. Meine Tipps für Sehenswürdigkeiten in der Stadt und Ausflüge ins Umland :).",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Die-Top-12-Sehensw%C3%BCrdigkeiten-in-Mailand/";
+          
+        },
+      },{id: "post-was-macht-ein-erasmusstudent-alles-in-mailand",
         
           title: "Was macht ein Erasmusstudent alles in Mailand?",
         
