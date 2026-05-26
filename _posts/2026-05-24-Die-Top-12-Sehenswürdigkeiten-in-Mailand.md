@@ -63,6 +63,7 @@ Mit der Schönheit solcher Orte kann es Mailand nicht aufnehmen. Als Ausgangspun
 
 Für die [Milano Design Week](https://www.fuorisalone.it/) alleine kann sich ein Besuch lohnen, denn für eine ganze Woche finden sich in der gesamten Stadt unfassbar viele Ausstellungen von kleinen Künstlern bis zu den größten Firmen.
 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/mailand/calzone.jpg" title="Italienisches Essen" alt="Leckeres italienisches Gericht in einem Restaurant" caption="Leckere frittierte Calzone in einem Restaurant." class="img-fluid rounded z-depth-1" zoomable=true %}
