@@ -31,7 +31,7 @@ Es gibt in Mailand vieles zu sehen. Sucht man nach Tipps für einen Tagesausflug
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mailand/armani.jpg" title="Armani Store in Mailand" alt="Kleid in Armani / Silos Museum" caption="Elegantes Abendkleid in Armani / Silos Museum in Mailandç." class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/mailand/armani.jpg" title="Armani Store in Mailand" alt="Kleid in Armani / Silos Museum" caption="Elegantes Abendkleid in Armani / Silos Museum in Mailand." class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/mailand/dom.jpg" title="Mailänder Dom" alt="Der Mailänder Dom bei Tageslicht" caption="Der beeindruckende Dom von Mailand auf der Piazza del Duomo." class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -68,9 +68,9 @@ Für die [Milano Design Week](https://www.fuorisalone.it/) alleine kann sich ein
         {% include figure.liquid loading="eager" path="assets/img/mailand/calzone.jpg" title="Italienisches Essen" alt="Leckeres italienisches Gericht in einem Restaurant" caption="Leckere frittierte Calzone bei Pizza e Mozzarella." class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mailand/mittelfinger.jpg" title="L.O.V.E.-Skulptur" alt="Die berühmte Mittelfinger-Skulptur vor der Börse in Mailand" caption="Maurizio Cattelans provokante L.O.V.E.-Skulptur vor der Mailänder Börse." class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/mailand/schöne-wand.jpg" title="Künstlerische Wand" alt="Dekorative und kunstvolle Wand in Mailand" caption="Kreative Wandgestaltung in einer Straße von Mailand." class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mailand/schöne-wand.jpg" title="Künstlerische Wand" alt="Dekorative und kunstvolle Wand in Mailand" caption="Kreative Wandgestaltung in einer Straße von Mailand." class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/mailand/mittelfinger.jpg" title="L.O.V.E.-Skulptur" alt="Die berühmte Mittelfinger-Skulptur vor der Börse in Mailand" caption="Maurizio Cattelans provokante L.O.V.E.-Skulptur vor der Mailänder Börse." class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
