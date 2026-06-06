@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.linkedin.com/in/max-stridde/";
               },
-            },{id: "post-die-top-12-sehenswürdigkeiten-in-mailand",
+            },{id: "post-wie-optimiert-man-seine-waschkosten-eine-mathematische-analyse",
+        
+          title: "Wie optimiert man seine Waschkosten? Eine mathematische Analyse",
+        
+        description: "Die Waschmaschinen in meinem Studentenwohnheim werben mit einem Abomodell. Ich habe die mögliche Kostenersparnis durchgerechnet und stieß auf die unangenehme Wahrheit...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Wie-optimiert-man-Waschkosten/";
+          
+        },
+      },{id: "post-die-top-12-sehenswürdigkeiten-in-mailand",
         
           title: "Die Top-12-Sehenswürdigkeiten in Mailand",
         
