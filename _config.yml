@@ -154,7 +154,7 @@ collections:
   projects:
     output: true
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -177,6 +177,7 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
+  - _news/
   - _teachings/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -199,6 +200,7 @@ exclude:
   - assets/rendercv/rendercv_output/Albert_Einstein_CV.pdf
   - assets/plotly/demo.html
   - assets/pdf/example_pdf.pdf
+  - assets/jupyter/blog.ipynb
   - assets/html/relativity.html
 keep_files:
   - CNAME

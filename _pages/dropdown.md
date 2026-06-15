@@ -8,9 +8,6 @@ children:
   - title: Bücher
     permalink: /books/
   - title: divider
-  - title: News
-    permalink: /news/
-  - title: divider
   - title: Wie funktionierts?
     permalink: /wie-funktionierts/
   - title: divider
