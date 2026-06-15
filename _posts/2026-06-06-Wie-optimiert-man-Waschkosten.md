@@ -43,7 +43,7 @@ Die [Techniker Krankenkasse erklärt:](https://www.tk.de/techniker/gesundheit-fo
 
 > "Die Statistik offenbart es: Ein 4-Personen-Haushalt hat etwa vier Waschladungen pro Woche zu erledigen, ein 2-Personen-Haushalt wäscht etwa 2 bis 3 mal pro Woche."
 
-Da wir im Studentenwohnheim Bettwäsche und Handtücher gestellt bekommen, können wir pro Bewohner von weniger als **`vier Wäschen pro Monat`** ausgehen. Nach eigener _nichtrepräsentativer_ Umfrage (_N = 2_) wird alle etwa alle 10 Tage eine Wäsche angestellt.
+Da wir im Studentenwohnheim Bettwäsche und Handtücher gestellt bekommen, können wir pro Bewohner von weniger als **`vier Wäschen pro Monat`** ausgehen. Nach eigener _nichtrepräsentativer_ Umfrage (_N = 2_) wird etwa alle 10 Tage eine Wäsche angestellt.
 
 ## Die Kostenkalkulation
 

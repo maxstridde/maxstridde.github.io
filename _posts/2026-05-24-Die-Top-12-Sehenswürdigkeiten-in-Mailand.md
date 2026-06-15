@@ -14,6 +14,11 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
+> ##### TIP
+>
+> tl;dr Hier ist meine [>> **Empfehlungsliste für Mailand** <<](https://maps.app.goo.gl/JkLqBvXfCEmBPEBq6)
+> {: .block-tip }
+
 ---
 
 Es gibt in Mailand vieles zu sehen. Sucht man nach Tipps für einen Tagesausflug durch die Stadt stößt man mitunter auf folgende Auswahl:
