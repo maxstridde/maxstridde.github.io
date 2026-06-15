@@ -18,19 +18,15 @@ latest_posts:
 
 Mailand ist groß \[Citation needed (\*1)\]. Also benötigt es Verkehrsmittel, um von A nach B zu gelangen. In diesem Blogpost möchte ich eine Rangliste der besten Verkehrsmittel für Mailand erstellen. Meine exklusiven Kaufempfehlungen und Preisleistungssieger verrate ich euch gerne, natürlich nur hier auf [maxstridde.de](https://www.maxstridde.de/). Ich bitte zu beachten, dass die vorgestellten Alternativen keine sich gegenseitig ausschließenden Wahlmöglichkeiten sind. Der größte Nutzen kann womöglich durch die Kombination der hier vorgestellten Angebote erzielt werden.
 
-_Es kann sich bei hier angegebenen Links um Affiliate-Links handeln. Die Kosten bleiben für dich unverändert, ich verdiene daran immerhin ein wenig. Vor allem verdienen jedoch der beziehungsweise die großen Internetkonzern(e) prächtig und der Einzelhandel leidet.\(*2)_
-
+_Es kann sich bei hier angegebenen Links um Affiliate-Links handeln. Die Kosten bleiben für dich unverändert, ich verdiene daran immerhin ein wenig. Vor allem verdienen jedoch der beziehungsweise die großen Internetkonzern(e) prächtig und der Einzelhandel leidet.\(\*2)_
 
 ## 1. Stadtrad
 
 Wie in Bonn und vielen anderen Städten auch, gibt es einen super günstigen Anbieter für Stadträder. Dessen Angebot ist in meinen Augen kaum zu überbieten. Für 36 € im Jahr kann man unbegrenzt oft die gelben Räder nehmen. Für nur 25 Cent pro Fahrt sind die E-Bikes ebenfalls ein herausragender Deal. Stationen zum Ausleihen und Abgeben gibt es fast überall (für die spitzfindigen Mathematiker: Es sind dennoch nur endlich viele). Das Fahrradnetz ist so dicht, dass es sich selbst für 500 m Strecken lohnen kann, schnell einen gelben Flitzer zu leihen. Auf Platz 1 steht das Stadtrad sogar vor dem eigenen Rad, obwohl mein Wohnort leider leicht außerhalb der Servicezone liegt. Diese Platzierung ergibt sich für mich, weil dieses Angebot unschlagbar günstig ist. Außerdem erfordert es keine eigenen Reparaturfähigkeiten und im größten Teil des Stadtgebiets sind die Räder überall verfügbar. Vor allem kann ich morgens mit dem eigenen Rad zur Uni, mit dem Stadtrad zur U-Bahn, dann mit der M4 in den Süden fahren, dort das nächste Stadtrad nehmen und spät am Abend zum Beispiel mit einem E-Bike zurück zu meinem Rad, mit dem ich dann den letzten Kilometer heimfahre. Im ersten Monat habe ich bereits 22 Strecken mit den Leihrädern zurückgelegt. Insgesamt macht es einfach Spaß, ich kann super spontan sein, und meine [Entdeckungstour](https://www.maxstridde.de/blog/2026/Hallo-Mailand/) durch die Mailänder Innenstadt und das Bankenviertel mit Carlo wäre ohne auch nicht zustande gekommen. 4,9 / 5 Sterne, weil vor meiner Haustür eine Station fehlt.
 
-
 ## 2. Eigenes Rad
 
 Das Fahrrad ist eine geniale Erfindung. Zwei Räder, eine Bremse und zack, geht's los. Über die Fahrradklingel habe ich schon einmal einen Text geschrieben. Die an meinem Lenker ist defekt, was mir angesichts der fehlenden Aufmerksamkeit der Menschen allgemein und der Italiener im Straßenverkehr noch spezieller das zeremonielle Abschrauben erspart. Ich muss gestehen, dass das Radfahren in Mailand eine gewisse Skrupellosigkeit und Risikobereitschaft erfordert, da man sich den italienischen Verkehrsregeln unterordnen muss. Wenn man sich einmal an die neue Ordnung gewöhnt hat, besticht das (eigene) Rad jedoch durch endlose Flexibilität und super schnelle Fortbewegung. Da rote Ampeln hier eher als Empfehlung denn als Anweisung gelten, ist man tatsächlich schneller unterwegs als mit dem Auto. Die Autos halten sich zum Glück noch größtenteils an die Lichtzeichen. Für mich besticht auch das Freiheitsgefühl und der Fahrtwind im Gesicht, während ich in die Pedale trete. Größter Vorteil des Privatrads ist, dass es das einzige Verkehrsmittel ist, welches direkt vor meiner Haustür steht und obendrein kostengünstig ist. Außerdem lässt es sich super kombinieren: Als Zubringer zur Uni, U-Bahn-Station, zum Stadtrad oder Bahnhof leistet es mir genauso gute Dienste wie für längere Rundfahrten. Im Stadtzentrum bin ich jedoch froh, gegen ein Stadtrad zu tauschen, da ich so nicht in Gefahr laufe, es in den Straßenbahnschienen zu zerstören oder durch das holprige Monsterkopfsteinpflaster aus einem anderen Jahrhundert zu demolieren. Dank Carlo habe ich einen wunderschönen Drahtesel, der mich tagtäglich durch die Stadt fährt – was für ein Glück. 4,8 / 5 Sterne.
-
-
 
 ## 3. Zu Fuß
 
@@ -39,7 +35,6 @@ Für mich bietet diese Fortbewegungsmöglichkeit die wunderbare Gelegenheit, die
 ## 4. ÖPNV
 
 Bus, Straßenbahn und fahrerlose U-Bahn. All das hat Mailand zu bieten. Das Monatsabo ist mit 22 € (als Student bzw. unter 27) preiswert und die Taktung der Fahrzeuge im Kernbereich super hoch. Meine Hauptverkehrsachse verläuft von Osten nach Westen. Die vollautonome M4 fährt alle 4 Minuten und ist schneller, als jedes Auto oder Fahrrad darf oder kann. Einziger Nachteil sind die gefühlt 50 m, die man jedes Mal in die Tiefe oder zurück zum Tageslicht steigen muss. Mit rund 1,8 Milliarden Euro Baukosten war sie selbst für eine Millionenstadt wie Mailand und für italienische Verhältnisse relativ teuer. Dafür funktioniert sie auch blendend. Auch die Straßenbahnen und Busse sind recht solide, sofern die Straßenbahnen nicht gegen Hauswände krachen (etwa eine Woche nach meiner Ankunft in Mailand genauso passiert). Vor allem finde ich bemerkenswert, dass teils noch uralte Straßenbahnen unterwegs sind. Diese erkennt man an den wunderschönen Holzbänken und den antiken Steuerknüppeln und Gashebeln in der Fahrerkabine. Da für mich auf den meisten anderen Achsen das Fahrrad nützlicher ist, habe ich mit anderen Linien nicht ganz so viele Erfahrungen. So ergeben sich für mich insgesamt 4 / 5 Sterne.
-
 
 ## 5. E-Scooter und Co.
 
@@ -56,14 +51,13 @@ Das Auto ist allgemein in Italien nicht ganz wegzudenken. Gerade in ländlichen 
 > ##### WARNING
 >
 > In Mailand zählt wirklich ALLES als Parkplatz. Rasenflächen, Gehwege. Parken in zweiter Reihe. Parken in dritter Reihe. Ich habe bereits wirklich KREATIVE Parkplätze gesehen...
-{: .block-warning }
+> {: .block-warning }
 
 ## 8. Helikopter
 
 Kommen wir zum ersten (von hinten betrachtet) möglicherweise praktischen Verkehrsmittel. Dank vieler Hochhäuser könnte ein Helikopter wirklich nützlich sein, um sich die Fahrt im Fahrstuhl zu ersparen. Das durchschnittliche Haus (im Median auch, würde ich ergänzen) in Mailand besitzt meinem Empfinden nach mindestens 6 Stockwerke. Richtung Stadtmitte und im Bankenviertel geht's natürlich noch sehr viel höher. Persönliche Erfahrungen kann ich hier nicht anbieten, daher vergebe ich lediglich 0,3 von 5 Sternen.
 
 ## 9. Privatjet
-
 
 In Mailand werden Style und Aussehen großgeschrieben. Entsprechend großen Eindruck kann ein Privatjet machen. Ich gehöre weder zu den Leuten, die sich einen leisten können, noch suche ich besonders viel Kontakt mit den Menschen, die sich vom Besitz eines Privatjets beeindrucken lassen. Aufgrund meiner Faszination für die Technik muss ich dennoch 0,2 von 5 Sternen vergeben. Nützlich für den Transport ist der Jet allerdings nicht.
 
@@ -77,8 +71,6 @@ Der nächste italienische Raketenstartplatz (nur suborbital) befindet sich auf [
 
 Fazit: 0,1 von 5 Sternen. 1 Stern für den Coolnessfaktor, –0,9 Abzug für die Umweltbelastung.
 
-
-
-(\*1) \[frei zitiert nach *What If?*, Randall Munroe\]  
+(\*1) \[frei zitiert nach _What If?_, Randall Munroe\]  
 (\*2) Es gibt in diesem Artikel natürlich **keine** Affiliate-Links.  
 (\*3) Bilder füge ich ein anderes mal dazu. Den Text hatte ich schon länger fertig und möchte ich nicht länger herumliegen lassen haha ^^

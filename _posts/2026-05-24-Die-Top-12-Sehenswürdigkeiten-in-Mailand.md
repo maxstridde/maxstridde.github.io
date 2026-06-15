@@ -17,7 +17,7 @@ latest_posts:
 > ##### TIP
 >
 > tl;dr Hier ist meine [>> **Empfehlungsliste für Mailand** <<](https://maps.app.goo.gl/JkLqBvXfCEmBPEBq6)
-{: .block-tip }
+> {: .block-tip }
 
 ---
 
