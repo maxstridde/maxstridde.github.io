@@ -6,7 +6,7 @@ description: Wie ich spontan meinen ersten Klettersteig absolvierte und mit zwei
 tags: italien sport fahrradtour berge klettersteig
 categories: blogging
 thumbnail: assets/img/zwei-abenteuer/max.jpg
-featured: true
+featured: false
 social: true
 latest_posts:
   enabled: true

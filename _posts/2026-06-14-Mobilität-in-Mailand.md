@@ -48,10 +48,12 @@ Sonderlich qualifiziert, um über Rollstuhlmobilität in Mailand zu schreiben, b
 
 Das Auto ist allgemein in Italien nicht ganz wegzudenken. Gerade in ländlichen Regionen benötigt man eine Kutsche auf 3 oder 4 Rädern, um die Berge hoch- und runterzukommen. Wer als Wanderfreund auch mit Aussicht unterwegs sein möchte, statt von 300 HM bis auf 1.800 HM emporzusteigen, freut sich deshalb sehr über dieses Transportmittel für den Wochenendausflug. Vor allem für den Ausflug zu meinem ersten Klettersteig habe ich sehr von der Bequemlichkeit des Autos profitiert. Davon abgesehen scheint mir das Auto gänzlich ungeeignet, um in der Stadt unterwegs zu sein. Es ist (vergleichsweise) teuer. Man bekommt keine Bewegung (für manche Menschen ist dies wohl ein Vorteil und kein Nachteil). Man steht im Stau. Insbesondere zu den Stoßzeiten ist mit überfüllten Straßen zu rechnen. Vorteil von Mailand gegenüber Deutschland sind die lascheren Verkehrsregeln. Vor allem ist die Parkplatzsuche hier sehr viel leichter, da alles – und ich meine wirklich alles (zweite Reihe, dritte Reihe, auf dem Zierrasen, auf dem Fußweg, auf dem Zebrastreifen, in der Kreuzung, …) – als Parkplatz durchgeht, siehe Bild. Insgesamt vergebe ich 0,4 von 5 Sternen.
 
+<!-- prettier-ignore-start -->
 > ##### WARNING
 >
 > In Mailand zählt wirklich ALLES als Parkplatz. Rasenflächen, Gehwege. Parken in zweiter Reihe. Parken in dritter Reihe. Ich habe bereits wirklich KREATIVE Parkplätze gesehen...
-> {: .block-warning }
+{: .block-warning }
+<!-- prettier-ignore-end -->
 
 ## 8. Helikopter
 

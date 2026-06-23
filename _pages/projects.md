@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Prosa
-permalink: /prosa/
-description: Eine wachsende Sammlung verschiedener Texte von mir.
+title: Projekte
+permalink: /projects/
+description: Eine wachsende Sammlung verschiedener Ideen von mir.
 nav: true
 nav_order: 2
-display_categories: [Texte] # [Texte, fun]
+display_categories: [Texte, Technik] # [Texte, fun]
 horizontal: false
 ---
 
