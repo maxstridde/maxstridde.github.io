@@ -14,10 +14,12 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
+<!-- prettier-ignore-start -->
 > ##### TIP
 >
 > tl;dr Hier ist meine [>> **Empfehlungsliste für Mailand** <<](https://maps.app.goo.gl/JkLqBvXfCEmBPEBq6)
-> {: .block-tip }
+{: .block-tip }
+<!-- prettier-ignore-end -->
 
 ---
 
@@ -46,19 +48,21 @@ Es gibt in Mailand vieles zu sehen. Sucht man nach Tipps für einen Tagesausflug
     </div>
 </div>
 
-## Tagesplanung
+## Verbesserte Empfehlungsliste
 
-Von dieser Liste möchte ich in keinem Fall abraten, ganz im Gegenteil. Beim Dom muss man einmal gewesen sein und wenn man in der Innenstadt ist, kann man auch die direkt nebenanbefindliche Einkaufspassage Galleria Vittorio Emanuele II besuchen. Die angebotenen Kleidung der Mailänder Modehäuser kann man sich definitiv nicht leisten. Dafür ist vielleicht ein Espresso drin (unter zwei Euro) und das Gebäude ist auch ein Bestaunen wert.
+Was man jedoch **nicht auf diesen Listen findet**, sind die zahlreichen kleinen Orte, an denen man viel entdecken kann. Ich möchte in keinem Fall davon abraten, die Highlights zu bestaunen, ganz im Gegenteil. Beim Dom muss man einmal gewesen sein und wenn man in der Innenstadt ist, kann man auch die direkt nebenanbefindliche Einkaufspassage Galleria Vittorio Emanuele II besuchen. Die angebotenen Kleidung der Mailänder Modehäuser kann man sich definitiv nicht leisten. Dafür ist vielleicht ein Espresso drin (unter zwei Euro) und das Gebäude ist auch ein Bestaunen wert.
 
 > Am besten eignen sich die **späten Nachtstunden** oder der **frühe Morgen** um den Domplatz zu besuchen, da dieser sonst total überlaufen ist.
 
+Um deinen nächsten Aufenthalt in Mailand mit den **unbekannten Spots** zu bereichern, habe ich eine Liste meiner Lieblingsorte auf Google Maps zusammengestellt. Von einem Bäcker mit wirklich gutem Brot (nach Deutschem Standard) bis zu den besten und günstigsten Pizzerien ist etwas dabei. Die **BAR PASTICCERIA SARA francone snc** hat auf Google maps nur 27 Bewertungen, bietet jedoch das absolut besten sizilianische Granita in Mailand, sie steht sehr weit oben auf meiner Liste mit Geheimspots:
+
+Klicke den Link oben oder hier: [**`Empfehlungen für Mailand`**](https://maps.app.goo.gl/JkLqBvXfCEmBPEBq6)
+
 ## Ergänzende Sehenswürdigkeiten
 
-Meiner Meinung nach liegt das besondere an der Stadt Mailand nicht an Highlights, die man in Touristenguides finden kann. Vielmehr ist es das alltägliche Leben der Italiener in Mailand, welches mich bezaubert. Es gibt viele schöne kleine Kaffees, Lokale und Orte, die für mich viel mehr das Lebensgefühl der Stadt widerspiegeln. Orte an denen die Italiener speisen sind für mich authentisch und obendrein günstiger als die Turistenhaie.
+Meiner Meinung nach liegt das besondere an der Stadt Mailand nicht an Highlights, die man in Touristenguides finden kann. Vielmehr ist es das **alltägliche** Leben der Italiener in Mailand, welches mich bezaubert. Es gibt viele schöne kleine Kaffees, Lokale und Orte, die für mich viel mehr das Lebensgefühl der Stadt widerspiegeln. Orte an denen die Italiener speisen sind für mich authentisch und obendrein günstiger als die Turistenhaie.
 
 Gerade für Touristen ist es schwer zu erkennen, welche Lokale gut und welche überteuert sind. Die guten und normalen italienischen Restaurants kosten deutlich weniger als in Deutschland. Daher sollte man sich nicht mit okayen Preis zufrieden geben, sondern ein günstigeres Restaurant mit besserer Qualität suchen. Super schick sehen die guten Lokale nicht unbedingt aus. Oft sind es alt(ehrwürdige) Restaurants bei denen es um Geschmack geht, nicht um das feinste ambiente. Schön in Italien finde ich, dass man Mittags oft Arbeiter gemeinsam in die Restaurants gehen sieht, insbesondere das der Mittagstisch gut und bezahlbar ist.
-
-Um deinen nächsten Aufenthalt in Mailand zu bereichern, habe ich eine Liste mit [Empfehlungen für Mailand](https://maps.app.goo.gl/JkLqBvXfCEmBPEBq6) auf Google Maps zusammengestellt. Von einem Bäcker mit wirklich gutem Brot (nach Deutschem Standard) bis zu den besten und günstigsten Pizzerien ist etwas dabei. Die `BAR PASTICCERIA SARA francone snc` hat auf Google maps nur 27 Bewertungen, bietet jedoch das absolut besten sizilianische Granita in Mailand.
 
 ## Das schönste an Mailand? Alles drumherum
 

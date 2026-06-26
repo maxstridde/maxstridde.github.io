@@ -37,6 +37,6 @@ Mein ganzer Name ist Alexander Maximilian Stridde. Du kannst mich einfach Max ne
 
 ## Akademisches
 
-Ich studiere Mathematik an der [Universität Bonn](https://www.uni-bonn.de). Im Sommersemester 2026 verbringe ich ein halbes Jahr mit Erasmus an der [Università degli Studi di Milano](https://www.unimi.it/en) in Italien. Auf diesem Blog berichte ich unter anderem, wie meine [ersten Tage in Italien](https://www.maxstridde.de/blog/2026/Hallo-Mailand/) vergangen sind.
+Ich studiere Mathematik an der [Universität Bonn](https://www.uni-bonn.de). Im Sommersemester 2026 verbringe ich ein halbes Jahr mit Erasmus an der [Università degli Studi di Milano](https://www.unimi.it/en) in Italien. Auf diesem Blog berichte ich unter anderem, wie meine [ersten Tage in Italien](/blog/2026/Hallo-Mailand/) vergangen sind.
 
 ---

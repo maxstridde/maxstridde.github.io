@@ -6,7 +6,7 @@ description: Meine Reise nach Italien und die ersten Eindrücke von Mailand.
 tags: italien kunst bahn
 categories: blogging
 thumbnail: assets/img/erste-tage/bahnstrecke.jpeg
-featured: true
+featured: false
 social: true
 latest_posts:
   enabled: true
