@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-prosa",
-          title: "Prosa",
-          description: "Eine wachsende Sammlung verschiedener Texte von mir.",
+        },{id: "nav-projekte",
+          title: "Projekte",
+          description: "Eine wachsende Sammlung verschiedener Ideen von mir.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/prosa/";
+            window.location.href = "/projects/";
           },
         },{id: "dropdown-bücher",
               title: "Bücher",
@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.linkedin.com/in/max-stridde/";
               },
-            },{id: "post-mobilität-in-mailand",
+            },{id: "post-das-a-b-c-der-keyboard-shortcuts",
+        
+          title: "Das A-B-C der Keyboard Shortcuts",
+        
+        description: "Wer Tastaturkürzel kennt, spart täglich ein paar Minuten. Hier sind die grundlegenden Shortcuts, die auf jedem Laptop funktionieren.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/projects/Das-ABC-der-Keyboard-Shortcuts/";
+          
+        },
+      },{id: "post-mobilität-in-mailand",
         
           title: "Mobilität in Mailand",
         
@@ -137,6 +148,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/small_things_like_these/";
+            },},{id: "projects-das-a-b-c-der-keyboard-shortcuts",
+          title: 'Das A-B-C der Keyboard Shortcuts',
+          description: "Wer Tastaturkürzel kennt, spart täglich ein paar Minuten. Hier sind die grundlegenden Shortcuts, die auf jedem Laptop funktionieren.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Das-ABC-der-Keyboard-Shortcuts/";
             },},{id: "projects-kämpfen-für-die-liebe",
           title: 'Kämpfen für die Liebe',
           description: "Über die Verflechtungenen zwischen Kampfsport und Beziehungen.",
