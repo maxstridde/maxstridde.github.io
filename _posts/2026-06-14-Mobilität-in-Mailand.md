@@ -5,8 +5,6 @@ date: 2026-06-14 18:00:00
 description: Ein Überblick über die verschiedenen Verkehrsmittel und Fortbewegungsmöglichkeiten in Mailand.
 tags: italien mailand
 categories: blogging
-toc:
-  sidebar: left
 thumbnail: assets/img/erste-tage/unterwegs.jpeg
 featured: false
 social: true

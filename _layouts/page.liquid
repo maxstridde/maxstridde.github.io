@@ -14,6 +14,14 @@ layout: default
     <p class="post-description">{{ page.description }}</p>
   </header>
 
+  {% if page.collection == 'projects' %}
+    <style>
+      .post article p {
+        text-align: justify;
+        hyphens: auto;
+      }
+    </style>
+  {% endif %}
   <article>
     {{ content }}
   </article>

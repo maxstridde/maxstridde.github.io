@@ -59,6 +59,12 @@ layout: default
     </p>
   </header>
 
+  <style>
+    .post-content #markdown-content p {
+      text-align: justify;
+      hyphens: auto;
+    }
+  </style>
   <article class="post-content">
     {% if page.toc and page.toc.beginning %}
       <div id="table-of-contents">

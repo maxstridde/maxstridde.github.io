@@ -6,8 +6,6 @@ description: Wer Tastaturkürzel kennt, spart täglich ein paar Minuten. Hier si
 tags: technik laptop
 categories: blogging
 tabs: false
-toc:
-  sidebar: false
 featured: false
 social: true
 thumbnail: assets/img/misc/keyboard.jpg

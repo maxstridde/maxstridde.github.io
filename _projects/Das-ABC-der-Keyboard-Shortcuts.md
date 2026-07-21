@@ -13,8 +13,6 @@ latest_posts:
   scrollable: false
   limit: 5
 tabs: true
-toc:
-  sidebar: left
 ---
 
 ---
