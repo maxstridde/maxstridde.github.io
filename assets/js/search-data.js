@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.linkedin.com/in/max-stridde/";
               },
-            },{id: "post-das-a-b-c-der-keyboard-shortcuts",
+            },{id: "post-warum-mailand-solch-eine-lebenswerte-stadt-ist",
+        
+          title: "Warum Mailand solch eine Lebenswerte Stadt ist",
+        
+        description: "Gute Stadtplanung ist keine Raketenwissenschaft. Es gelten nur die selben Anforderungen wie für Siedlungen auf dem Mars.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Was-macht-Mailand-so-lebenswert/";
+          
+        },
+      },{id: "post-das-a-b-c-der-keyboard-shortcuts",
         
           title: "Das A-B-C der Keyboard Shortcuts",
         
@@ -143,11 +154,71 @@ ninja.data = [{
             window.location.href = "/blog/2026/Der-Anfang-dieses-Blogs/";
           
         },
-      },{id: "books-small-things-like-these",
+      },{id: "books-über-die-heiterkeit-in-schwierigen-zeiten",
+          title: 'Über die Heiterkeit in schwierigen Zeiten',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ueber_die_heiterkeit/";
+            },},{id: "books-der-kelch-der-götter",
+          title: 'Der Kelch der Götter',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/der_kelch_der_goetter/";
+            },},{id: "books-die-vermessung-der-welt",
+          title: 'Die Vermessung der Welt',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/die_vermessung_der_welt/";
+            },},{id: "books-die-burg",
+          title: 'Die Burg',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/die_burg/";
+            },},{id: "books-small-things-like-these",
           title: 'Small Things Like These',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/small_things_like_these/";
+            },},{id: "books-vom-ende-der-einsamkeit",
+          title: 'Vom Ende der Einsamkeit',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/vom_ende_der_einsamkeit/";
+            },},{id: "books-the-gospel-of-wealth",
+          title: 'The Gospel of Wealth',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_gospel_of_wealth/";
+            },},{id: "books-ordinary-monsters",
+          title: 'Ordinary Monsters',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ordinary_monsters/";
+            },},{id: "books-round-ireland-with-a-fridge",
+          title: 'Round Ireland with a Fridge',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/round_ireland_with_a_fridge/";
+            },},{id: "books-homers-letzter-satz",
+          title: 'Homers letzter Satz',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/homers_letzter_satz/";
+            },},{id: "books-lichtungen",
+          title: 'Lichtungen',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/lichtungen/";
+            },},{id: "books-25-letzte-sommer",
+          title: '25 letzte Sommer',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/25_letzte_sommer/";
+            },},{id: "books-il-piccolo-principe",
+          title: 'Il Piccolo Principe',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/il_piccolo_principe/";
             },},{id: "projects-das-a-b-c-der-keyboard-shortcuts",
           title: 'Das A-B-C der Keyboard Shortcuts',
           description: "Wer Tastaturkürzel kennt, spart täglich ein paar Minuten. Hier sind die grundlegenden Shortcuts, die auf jedem Laptop funktionieren.",
