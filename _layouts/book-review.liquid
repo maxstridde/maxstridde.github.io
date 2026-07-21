@@ -105,7 +105,7 @@ layout: default
     {% if content == '' %}
       <figure class="empty-review">
         {% if page.cover %}
-          <img class="empty-review-cover" alt="{{ page.title }} cover" src="{{ site.baseurl }}/{{ page.cover }}">
+          <img class="empty-review-cover" alt="{{ page.title }} cover" src="{{ page.cover | prepend: '/assets/img/books/' | relative_url }}">
           <figcaption class="empty-review-caption">
             Cover von <em>{{ page.title }}</em>
           </figcaption>
@@ -136,7 +136,7 @@ layout: default
     {% else %}
       <figure>
         {% if page.cover %}
-          <img alt="{{ page.title }} cover" src="{{ site.baseurl }}/{{ page.cover }}">
+          <img alt="{{ page.title }} cover" src="{{ page.cover | prepend: '/assets/img/books/' | relative_url }}">
           <figcaption>
             Cover of <em>{{ page.title }}</em>
           </figcaption>
@@ -168,6 +168,10 @@ layout: default
 <style>
       .post article {
         display: flow-root;
+      }
+      .post article p {
+        text-align: justify;
+        hyphens: auto;
       }
       figure {
         float: none;

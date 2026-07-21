@@ -5,6 +5,7 @@ social: true
 permalink: /books/
 nav: false
 collection: books
+covers: /assets/img/books/
 ---
 
 > Bücher sind ein Tor zur Welt.

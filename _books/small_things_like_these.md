@@ -17,4 +17,4 @@ status: Finished
 social: false
 ---
 
-An incredible book. It takes an immensely difficult topic and portraits it very delicately and lightly. It is so wonderful to read. It has such beautiful language. Just inbetween the lines you can see behind the curtain and the lighntness of it all.
+An incredible book. It takes an immensely difficult topic and portrays it very delicately and lightly. It is so wonderful to read. It has such beautiful language. Just in between the lines you can see behind the curtain and the lightness of it all.
