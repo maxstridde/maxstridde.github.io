@@ -14,10 +14,11 @@
 set -euo pipefail
 
 # ------------------------------------------------------------------ config
-SUBTITLE="Stadtplanung · Blog"
-TITLE="Warum Mailand
-lebenswert ist"
-BTN_TEXT="Jetzt lesen"
+# Texte lassen sich per Umgebungsvariable überschreiben (siehe og-bilderstrecke.sh).
+SUBTITLE="${SUBTITLE:-Stadtplanung · Blog}"
+TITLE="${TITLE:-Warum Mailand
+lebenswert ist}"
+BTN_TEXT="${BTN_TEXT:-Jetzt lesen}"
 
 # Fonts — point these at .ttf files you actually have.
 FONT_TITLE="${HOME}/Library/Fonts/Poppins-ExtraBold.ttf"
@@ -60,10 +61,12 @@ TMP="$(mktemp -d)"; trap 'rm -rf "$TMP"' EXIT
 # 1) normalize orientation, pick a photo box matching the source's aspect
 magick "$INPUT" -auto-orient "$TMP/src.png"
 read W H <<<"$(magick identify -format "%w %h" "$TMP/src.png")"
-if [ "$W" -ge "$H" ]; then
+if [ "$W" -gt "$H" ]; then
   BOX_W=540; BOX_H=384     # landscape box
-else
+elif [ "$H" -gt "$W" ]; then
   BOX_W=384; BOX_H=520     # portrait box
+else
+  BOX_W=500; BOX_H=500     # square box
 fi
 FRAME_W=$((BOX_W+24)); FRAME_H=$((BOX_H+24))
 BX=70; BY=$(( (630-FRAME_H)/2 ))

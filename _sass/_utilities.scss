@@ -495,6 +495,16 @@ ninja-keys::part(ninja-input-wrapper) {
 
 // Books shelf
 
+.review-stars {
+  display: inline-block;
+  padding: 0.15rem 0.4rem;
+  border: 1px solid rgba(248, 148, 6, 0.5);
+  border-radius: 4px;
+  background-color: rgba(248, 148, 6, 0.1);
+  color: #f89406;
+  white-space: nowrap;
+}
+
 figure.cover {
   display: inline-block;
   text-align: center;
@@ -561,6 +571,14 @@ figure.cover {
     color: #23212d;
     text-transform: uppercase;
     background-color: #b0abb3;
+  }
+
+  figcaption.cover-stars {
+    display: block;
+    padding: 0.15rem 0;
+    background-color: var(--global-cover-stars-bg);
+    color: #f89406;
+    line-height: 1;
   }
 
   /* mouse over link */

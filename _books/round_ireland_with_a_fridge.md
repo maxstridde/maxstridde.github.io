@@ -3,7 +3,7 @@ layout: book-review
 title: Round Ireland with a Fridge
 author: Tony Hawks
 publisher: Ebury Press
-cover: #blank
+cover: round_ireland_with_a_fridge.jpg
 olid: OL58729M # use Open Library ID to fetch cover (if no `cover` is provided)
 categories: Irland Reise Humor
 tags: Buchtipp

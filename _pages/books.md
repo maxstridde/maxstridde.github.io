@@ -3,7 +3,8 @@ layout: book-shelf
 title: Bücher
 social: true
 permalink: /books/
-nav: false
+nav: true
+nav_order: 3
 collection: books
 covers: /assets/img/books/
 ---

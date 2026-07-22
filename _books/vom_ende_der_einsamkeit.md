@@ -3,7 +3,7 @@ layout: book-review
 title: Vom Ende der Einsamkeit
 author: Benedict Wells
 publisher: Diogenes
-cover: #blank
+cover: vom_ende_der_einsamkeit.jpg
 olid: OL46525546M # use Open Library ID to fetch cover (if no `cover` is provided)
 categories: Roman Familie Coming-of-Age
 tags: Buchtipp

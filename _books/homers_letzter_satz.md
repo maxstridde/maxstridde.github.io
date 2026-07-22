@@ -3,7 +3,7 @@ layout: book-review
 title: Homers letzter Satz
 author: Simon Singh
 publisher: Hanser
-cover: #blank
+cover: homers_letzter_satz.jpg
 olid: OL27479342M # use Open Library ID to fetch cover (if no `cover` is provided)
 categories: Mathematik Sachbuch Die-Simpsons
 tags: Buchtipp

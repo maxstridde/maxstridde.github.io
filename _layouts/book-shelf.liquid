@@ -20,6 +20,23 @@ layout: page
       {% endif %}
 
       <figure class="cover">
+        {% if item.stars %}
+          {% assign full_stars = item.stars | floor %}
+          {% assign half_star = item.stars | minus: full_stars %}
+          {% assign empty_stars = 5 | minus: full_stars %}
+          {% if half_star > 0 %}
+            {% assign empty_stars = empty_stars | minus: 1 %}
+          {% endif %}
+          <figcaption class="cover-stars" title="{{ item.stars }}/5">
+            {% for i in (1..full_stars) -%}
+              <i class="fa-solid fa-star fa-sm"></i>
+            {%- endfor -%}
+            {%- if half_star > 0 %}<i class="fa-solid fa-star-half-stroke fa-sm"></i>{% endif -%}
+            {%- for i in (1..empty_stars) -%}
+              <i class="fa-regular fa-star fa-sm"></i>
+            {%- endfor -%}
+          </figcaption>
+        {% endif %}
         <a class="cover-link" href="{{ item.url | relative_url }}">
           {% if item.cover %}
             <img alt="{{ item.title }} cover" src="{{ item.cover | prepend: page.covers | relative_url }}" style="height:200px">

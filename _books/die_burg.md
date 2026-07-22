@@ -3,7 +3,7 @@ layout: book-review
 title: Die Burg
 author: Ursula Poznanski
 publisher: Knaur
-cover: #blank
+cover: die_burg.jpg
 olid: OL59515357M # use Open Library ID to fetch cover (if no `cover` is provided)
 categories: Thriller Dystopie Roman
 tags: Buchtipp
