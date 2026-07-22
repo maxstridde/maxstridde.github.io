@@ -23,14 +23,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "dropdown-bücher",
-              title: "Bücher",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-wie-funktionierts",
+        },{id: "nav-bücher",
+          title: "Bücher",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
+          },
+        },{id: "dropdown-wie-funktionierts",
               title: "Wie funktionierts?",
               description: "",
               section: "Dropdown",
@@ -154,7 +154,12 @@ ninja.data = [{
             window.location.href = "/blog/2026/Der-Anfang-dieses-Blogs/";
           
         },
-      },{id: "books-über-die-heiterkeit-in-schwierigen-zeiten",
+      },{id: "books-briefe-vom-weihnachtsmann",
+          title: 'Briefe vom Weihnachtsmann',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/briefe_vom_weihnachtsmann/";
+            },},{id: "books-über-die-heiterkeit-in-schwierigen-zeiten",
           title: 'Über die Heiterkeit in schwierigen Zeiten',
           description: "",
           section: "Books",handler: () => {
@@ -184,6 +189,26 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/vom_ende_der_einsamkeit/";
+            },},{id: "books-siddhartha",
+          title: 'Siddhartha',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/siddhartha/";
+            },},{id: "books-pi-mal-daumen",
+          title: 'Pi mal Daumen',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/pi_mal_daumen/";
+            },},{id: "books-adressat-unbekannt",
+          title: 'Adressat unbekannt',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/adressat_unbekannt/";
+            },},{id: "books-moralische-ambition",
+          title: 'Moralische Ambition',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/moralische_ambition/";
             },},{id: "books-the-gospel-of-wealth",
           title: 'The Gospel of Wealth',
           description: "",

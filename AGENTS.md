@@ -2,6 +2,11 @@
 
 A simple, clean, and responsive Jekyll theme for academics.
 
+## Book Reviews (`_books/`)
+
+- The rating lives **only** in the `stars:` front matter — never write it in the
+  review text (no `4/5`, `3,5/5`, etc. at the end).
+
 ## Quick Links by Role
 
 - **Are you a coding agent?** → Read [`.github/copilot-instructions.md`](.github/copilot-instructions.md) first (tech stack, build, CI/CD, common pitfalls & solutions)
