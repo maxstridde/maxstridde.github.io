@@ -3,7 +3,7 @@ layout: book-review
 title: Small Things Like These
 author: Claire Keegan
 publisher: faber&faber
-cover: #blank
+cover: small_things_like_these.jpg
 olid: OL36285622M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9780571368709 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Irland Historische-Fiktion Novelle

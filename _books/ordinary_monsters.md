@@ -3,7 +3,7 @@ layout: book-review
 title: Ordinary Monsters
 author: J.M. Miro
 publisher: Flatiron Books
-cover: #blank
+cover: ordinary_monsters.jpg
 isbn: 9781250833662 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Fantasy Viktorianisch Roman
 tags: Fantasy

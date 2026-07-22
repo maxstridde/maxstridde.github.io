@@ -51,13 +51,15 @@ layout: default
           {% if half_star > 0 %}
             {% assign empty_stars = empty_stars | minus: 1 %}
           {% endif %}
-          {% for i in (1..full_stars) -%}
-            <i class="fa-solid fa-star fa-sm"></i>
-          {%- endfor -%}
-          {%- if half_star > 0 %}<i class="fa-solid fa-star-half-stroke fa-sm"></i>{% endif -%}
-          {%- for i in (1..empty_stars) -%}
-            <i class="fa-regular fa-star fa-sm"></i>
-          {%- endfor -%}
+          <span class="review-stars">
+            {%- for i in (1..full_stars) -%}
+              <i class="fa-solid fa-star fa-sm"></i>
+            {%- endfor -%}
+            {%- if half_star > 0 %}<i class="fa-solid fa-star-half-stroke fa-sm"></i>{% endif -%}
+            {%- for i in (1..empty_stars) -%}
+              <i class="fa-regular fa-star fa-sm"></i>
+            {%- endfor -%}
+          </span>
           {% if page.goodreads_review %}
             </a>
           {% endif %}
@@ -138,7 +140,7 @@ layout: default
         {% if page.cover %}
           <img alt="{{ page.title }} cover" src="{{ page.cover | prepend: '/assets/img/books/' | relative_url }}">
           <figcaption>
-            Cover of <em>{{ page.title }}</em>
+            Cover von <em>{{ page.title }}</em>
           </figcaption>
         {% elsif page.olid %}
           <img alt="{{ page.title }} cover" src="https://covers.openlibrary.org/b/olid/{{ page.olid }}-L.jpg?default=false">

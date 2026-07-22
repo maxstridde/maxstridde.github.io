@@ -3,7 +3,7 @@ layout: book-review
 title: The Gospel of Wealth
 author: Andrew Carnegie
 publisher: Applewood Books
-cover: #blank
+cover: the_gospel_of_wealth.jpg
 olid: OL38580610M # use Open Library ID to fetch cover (if no `cover` is provided)
 categories: USA Wirtschaft Essay
 tags: Buchtipp
