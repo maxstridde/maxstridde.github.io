@@ -163,7 +163,7 @@ die kleine Version.
 </div>
 ```
 
-## Table of Contents
+## Table of Contents (Depreceated)
 
 Im Frontmatter des Posts:
 
@@ -171,6 +171,8 @@ Im Frontmatter des Posts:
 toc:
   sidebar: left # oder right
 ```
+
+Problem mit Überlappungen. Außerdem nimmt der TOC Platz weg.
 
 ## Blockquotes
 
