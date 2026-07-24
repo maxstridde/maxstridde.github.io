@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Wie ich Mailand beschreiben würden, wenn ich keine Worte benutzen dürfte.
+title: Wie ich Mailand beschreiben würde, wenn ich keine Worte benutzen dürfte.
 date: 2026-07-23 12:00:00
-description: Ein Bild sagt mehr als tausend Worte, heißt es. Dann müssten neun Bilder ja bei weitem reichen, um meinen Eindruck von Mailand zu vermitteln.
+description: Ein Bild sagt mehr als tausend Worte, heißt es. Dann müssten neun Bilder bei weitem reichen, um meinen Eindruck von Mailand zu vermitteln.
 tags: mailand italien stadt
 categories: blogging photos
 tabs: false
