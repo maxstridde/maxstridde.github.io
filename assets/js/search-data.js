@@ -44,11 +44,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.linkedin.com/in/max-stridde/";
               },
-            },{id: "post-wie-ich-mailand-beschreiben-würden-wenn-ich-keine-worte-benutzen-dürfte",
+            },{id: "post-wie-ich-mailand-beschreiben-würde-wenn-ich-keine-worte-benutzen-dürfte",
         
-          title: "Wie ich Mailand beschreiben würden, wenn ich keine Worte benutzen dürfte.",
+          title: "Wie ich Mailand beschreiben würde, wenn ich keine Worte benutzen dürfte.",
         
-        description: "Ein Bild sagt mehr als tausend Worte, heißt es. Dann müssten neun Bilder ja bei weitem reichen, um meinen Eindruck von Mailand zu vermitteln.",
+        description: "Ein Bild sagt mehr als tausend Worte, heißt es. Dann müssten neun Bilder bei weitem reichen, um meinen Eindruck von Mailand zu vermitteln.",
         section: "Posts",
         handler: () => {
           
