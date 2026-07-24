@@ -16,7 +16,7 @@ latest_posts:
   limit: 5
 ---
 
-## Mailand in 9 Bildern
+## Mailand in neun Bildern
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
