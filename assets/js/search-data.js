@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.linkedin.com/in/max-stridde/";
               },
-            },{id: "post-wie-ich-mailand-beschreiben-würde-wenn-ich-keine-worte-benutzen-dürfte",
+            },{id: "post-eggshell-the-cli-easter-egg-hunt",
+        
+          title: 'Eggshell — The CLI Easter Egg Hunt <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Ein Terminal-Spiel im Browser für Einsteiger. Finde sieben versteckte Eier und lerne dabei echte Shell-Befehle wie ls, cd, cat und sudo.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://maxstridde.de/Eggshell-CLI-Easter-Egg-Hunt/", "_blank");
+          
+        },
+      },{id: "post-wie-ich-mailand-beschreiben-würde-wenn-ich-keine-worte-benutzen-dürfte",
         
           title: "Wie ich Mailand beschreiben würde, wenn ich keine Worte benutzen dürfte.",
         
@@ -260,6 +271,11 @@ ninja.data = [{
           description: "Wer Tastaturkürzel kennt, spart täglich ein paar Minuten. Hier sind die grundlegenden Shortcuts, die auf jedem Laptop funktionieren.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Das-ABC-der-Keyboard-Shortcuts/";
+            },},{id: "projects-eggshell-the-cli-easter-egg-hunt",
+          title: 'Eggshell — The CLI Easter Egg Hunt',
+          description: "Ein Terminal-Spiel im Browser für Einsteiger. Finde sieben versteckte Eier und lerne dabei echte Shell-Befehle wie ls, cd, cat und sudo.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/eggshell/";
             },},{id: "projects-kämpfen-für-die-liebe",
           title: 'Kämpfen für die Liebe',
           description: "Über die Verflechtungenen zwischen Kampfsport und Beziehungen.",
